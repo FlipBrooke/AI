@@ -1,0 +1,500 @@
+Season,Name,Age,Hometown,Occupation,Outcome
+1,Amanda Marsh,23,"Chanute, Kansas",Event Planner,Winner
+1,Trista Rehn,29,"St. Louis, Missouri",Miami Heat Dancer,Runner-up
+1,Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,Week 5
+1,Kimberly Karels,24,"Tempe, Arizona",Nanny,Week 4
+1,Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,Week 3
+1,Christina Stencil,28,"Bonita, California",Attorney,Week 3
+1,LaNease Adams,23,"Playa Del Rey, California",Actress,Week 3
+1,Rhonda Rittenhouse,28,"Woodward, Oklahoma",Commercial Real Estate Agent,Week 3
+1,Alexa Jurgielewicz,27,"Beverly Hills, California",Special Ed. Teacher,Week 2
+1,Amy Anzel,28,"Yonkers, New York",Production Coordinator,Week 2
+1,Angela Lowery,25,"Avondale, Arizona",Hooters Waitress,Week 2
+1,Angelique Madrid,27,"Burbank, California",Actress,Week 2
+1,Katie Sapienza,23,"Malden, Massachusetts",Power Tool Sales Rep.,Week 2
+1,Melissa Reese,25,"Tempe, Arizona",Photographer,Week 2
+1,Tina Chen,27,"Plano, Texas",Graduate Student,Week 2
+1,Amber Johnson,29,"Los Angeles, California",Business Development Director,Week 1
+1,Daniela Ferdico,30,"Seattle, Washington",Neuropsychologist,Week 1
+1,Denise Kellaher,30,"Honolulu, Hawaii",Doctor,Week 1
+1,Jackie Hucko,22,"Pittsburgh, Pennsylvania",Bar Manager,Week 1
+1,Jill Gosser,31,"Chicago, Illinois",Retail Manager,Week 1
+1,Kristina Jenkins,27,"Chelsea, New York",Advertising Executive,Week 1
+1,Lisa Gold,29,"Dallas, Texas",Attorney,Week 1
+1,Paula Oliveira,24,"Swansea, Massachusetts",Insurance Representative,Week 1
+1,Rachel Lanzilotto,29,"Eastchester, New York",6th Grade Teacher,Week 1
+1,Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,Week 1
+2,Helene Eksterowicz,27,"Gloucester, New Jersey",School Psychologist,Winner
+2,Brooke Smith,22,"Albertville, Alabama",College Student,Runner-up
+2,Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,Week 6
+2,Angela Vaught,27,"Kansas City, Missouri",Registered Nurse,Week 5
+2,Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,Week 4
+2,Heather Cranford,30,"Dallas, Texas",Flight Attendant,Week 4
+2,Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor,Week 3
+2,Heather Campion,24,"Walnut Creek, California",Marriage Therapy Trainee,Week 3
+2,Kyla Dickerson,22,"Midvale, Utah",Airline Supervisor,Week 3
+2,Shannon Fries,26,"North Lindenhurst, New York",Graphic Artist,Week 3
+2,Dana Norris,24,"Beverly Hills, California",Radio Sales,Week 2
+2,Erin Lulevitch,25,"West Chester, Pennsylvania",Publications Quality Control,Week 2
+2,Suzanne Freeman,33,"Redondo Beach, California",Flight Attendant,Week 2
+2,Frances Dinglasan,30,"San Francisco, California",Strategic Planning Analyst,Week 2 (Quit)
+2,Anindita Dutta,27,"Brooklyn, New York",Attorney,Week 2 (Quit)
+2,Amber West,26,"Chapel Hill, North Carolina",Psychologist,Week 1
+2,Camille Langfield,29,"Sherman Oaks, California",Actress,Week 1
+2,Cari,29,"Granite City, Illinois",3rd Grade Teacher,Week 1
+2,Christy,24,"Avondale, Arizona",Radiological Technologist,Week 1
+2,Erin A.,24,"Houston, Texas",Interior Designer,Week 1
+2,Fatima Rivas,22,"Long Beach, California",College Student,Week 1
+2,Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,Week 1
+2,Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,Week 1
+2,Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,Week 1
+2,Suzi Reid,28,"Richmond, Virginia",Communications Specialist,Week 1
+3,Alex Michel,7,"March 25, 2002(2002-03-25)","April 25, 2002(2002-04-25)",—
+3,Aaron Buerge,9,"September 25, 2002(2002-09-25)","November 20, 2002(2002-11-20)",—
+3,Andrew Firestone,10,"March 26, 2003(2003-03-26)","May 21, 2003(2003-05-21)",—
+3,Bob Guiney,10,"September 24, 2003(2003-09-24)","November 20, 2003(2003-11-20)",—
+3,Jesse Palmer,9,"April 7, 2004(2004-04-07)","May 26, 2004(2004-05-26)",—
+3,Byron Velvick,10,"September 22, 2004(2004-09-22)","November 24, 2004(2004-11-24)",—
+3,Charlie O'Connell,8,"March 28, 2005(2005-03-28)","May 16, 2005(2005-05-16)",—
+3,Travis Lane Stork,8,"January 9, 2006(2006-01-09)","February 27, 2006(2006-02-27)",57
+3,Lorenzo Borghese,8,"October 2, 2006(2006-10-02)","November 27, 2006(2006-11-27)",83
+3,Andrew Baldwin,9,"April 7, 2007(2007-04-07)","May 22, 2007(2007-05-22)",52
+3,Brad Womack,10,"September 24, 2007(2007-09-24)","November 20, 2007(2007-11-20)",49
+3,Matt Grant,9,"March 17, 2008(2008-03-17)","May 12, 2008(2008-05-12)",85
+3,Jason Mesnick,11,"January 5, 2009(2009-01-05)","March 3, 2009(2009-03-03)",24
+3,Jake Pavelka,10,"January 4, 2010(2010-01-04)","March 1, 2010(2010-03-01)",23
+3,Brad Womack,12,"January 3, 2011(2011-01-03)","March 14, 2011(2011-03-14)",35
+3,Ben Flajnik,12,"January 2, 2012(2012-01-02)","March 12, 2012(2012-03-12)",49
+3,Sean Lowe,13,"January 7, 2013(2013-01-07)","March 11, 2013(2013-03-11)",41
+3,Juan Pablo Galavis,12,"January 6, 2014(2014-01-06)","March 10, 2014(2014-03-10)",32
+3,Chris Soules,13,"January 5, 2015(2015-01-05)","March 9, 2015(2015-03-09)",46
+3,Ben Higgins,12,"January 4, 2016(2016-01-04)","March 14, 2016(2016-03-14)",41
+3,Nick Viall,13,"January 2, 2017(2017-01-02)","March 13, 2017(2017-03-13)",33
+3,Arie Luyendyk Jr.,12,"January 1, 2018(2018-01-01)","March 6, 2018(2018-03-06)",47
+3,Colton Underwood,12,"January 7, 2019(2019-01-07)","March 12, 2019(2019-03-12)",47
+3,Peter Weber,12,"January 6, 2020(2020-01-06)","March 10, 2020(2020-03-10)",35
+3,Matt James,12,"January 4, 2021(2021-01-04)","March 15, 2021(2021-03-15)",37
+3,Clayton Echard,12,"January 3, 2022(2022-01-03)","March 15, 2022(2022-03-15)",53
+3,Zach Shallcross,11,"January 23, 2023(2023-01-23)","March 27, 2023(2023-03-27)",63
+3,Joey Graziadei,11,"January 22, 2024(2024-01-22)","March 25, 2024(2024-03-25)",TBA
+3,Grant Ellis,TBA,"January 27, 2025(2025-01-27)",TBA,TBA
+4,Alex Michel,7,"March 25, 2002(2002-03-25)","April 25, 2002(2002-04-25)",—
+4,Aaron Buerge,9,"September 25, 2002(2002-09-25)","November 20, 2002(2002-11-20)",—
+4,Andrew Firestone,10,"March 26, 2003(2003-03-26)","May 21, 2003(2003-05-21)",—
+4,Bob Guiney,10,"September 24, 2003(2003-09-24)","November 20, 2003(2003-11-20)",—
+4,Jesse Palmer,9,"April 7, 2004(2004-04-07)","May 26, 2004(2004-05-26)",—
+4,Byron Velvick,10,"September 22, 2004(2004-09-22)","November 24, 2004(2004-11-24)",—
+4,Charlie O'Connell,8,"March 28, 2005(2005-03-28)","May 16, 2005(2005-05-16)",—
+4,Travis Lane Stork,8,"January 9, 2006(2006-01-09)","February 27, 2006(2006-02-27)",57
+4,Lorenzo Borghese,8,"October 2, 2006(2006-10-02)","November 27, 2006(2006-11-27)",83
+4,Andrew Baldwin,9,"April 7, 2007(2007-04-07)","May 22, 2007(2007-05-22)",52
+4,Brad Womack,10,"September 24, 2007(2007-09-24)","November 20, 2007(2007-11-20)",49
+4,Matt Grant,9,"March 17, 2008(2008-03-17)","May 12, 2008(2008-05-12)",85
+4,Jason Mesnick,11,"January 5, 2009(2009-01-05)","March 3, 2009(2009-03-03)",24
+4,Jake Pavelka,10,"January 4, 2010(2010-01-04)","March 1, 2010(2010-03-01)",23
+4,Brad Womack,12,"January 3, 2011(2011-01-03)","March 14, 2011(2011-03-14)",35
+4,Ben Flajnik,12,"January 2, 2012(2012-01-02)","March 12, 2012(2012-03-12)",49
+4,Sean Lowe,13,"January 7, 2013(2013-01-07)","March 11, 2013(2013-03-11)",41
+4,Juan Pablo Galavis,12,"January 6, 2014(2014-01-06)","March 10, 2014(2014-03-10)",32
+4,Chris Soules,13,"January 5, 2015(2015-01-05)","March 9, 2015(2015-03-09)",46
+4,Ben Higgins,12,"January 4, 2016(2016-01-04)","March 14, 2016(2016-03-14)",41
+4,Nick Viall,13,"January 2, 2017(2017-01-02)","March 13, 2017(2017-03-13)",33
+4,Arie Luyendyk Jr.,12,"January 1, 2018(2018-01-01)","March 6, 2018(2018-03-06)",47
+4,Colton Underwood,12,"January 7, 2019(2019-01-07)","March 12, 2019(2019-03-12)",47
+4,Peter Weber,12,"January 6, 2020(2020-01-06)","March 10, 2020(2020-03-10)",35
+4,Matt James,12,"January 4, 2021(2021-01-04)","March 15, 2021(2021-03-15)",37
+4,Clayton Echard,12,"January 3, 2022(2022-01-03)","March 15, 2022(2022-03-15)",53
+4,Zach Shallcross,11,"January 23, 2023(2023-01-23)","March 27, 2023(2023-03-27)",63
+4,Joey Graziadei,11,"January 22, 2024(2024-01-22)","March 25, 2024(2024-03-25)",TBA
+4,Grant Ellis,TBA,"January 27, 2025(2025-01-27)",TBA,TBA
+5,Jessica Bowlin,22,"Huntington Beach, California",Student,Winner
+5,Tara Huckeby,23,"Shawnee, Oklahoma",General Contractor,Week 7
+5,Mandy Jaye Jeffreys,26,"Midland, Texas",Architect Designer,Week 6
+5,Trish Schneider,28,"Atlanta, Georgia",Model,Week 5
+5,Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical Salesperson,Week 4
+5,Jenny De Schiralli,26,"Carrboro, North Carolina",Swim Instructor,Week 3
+5,Amber LaRoux,27,"Sunriver, Oregon",Consultant,Week 2
+5,DeShaun Warner,25,"Phillipsburg, New Jersey",Account Manager,Week 1
+6,Alex Michel,7,"March 25, 2002(2002-03-25)","April 25, 2002(2002-04-25)",—
+6,Aaron Buerge,9,"September 25, 2002(2002-09-25)","November 20, 2002(2002-11-20)",—
+6,Andrew Firestone,10,"March 26, 2003(2003-03-26)","May 21, 2003(2003-05-21)",—
+6,Bob Guiney,10,"September 24, 2003(2003-09-24)","November 20, 2003(2003-11-20)",—
+6,Jesse Palmer,9,"April 7, 2004(2004-04-07)","May 26, 2004(2004-05-26)",—
+6,Byron Velvick,10,"September 22, 2004(2004-09-22)","November 24, 2004(2004-11-24)",—
+6,Charlie O'Connell,8,"March 28, 2005(2005-03-28)","May 16, 2005(2005-05-16)",—
+6,Travis Lane Stork,8,"January 9, 2006(2006-01-09)","February 27, 2006(2006-02-27)",57
+6,Lorenzo Borghese,8,"October 2, 2006(2006-10-02)","November 27, 2006(2006-11-27)",83
+6,Andrew Baldwin,9,"April 7, 2007(2007-04-07)","May 22, 2007(2007-05-22)",52
+6,Brad Womack,10,"September 24, 2007(2007-09-24)","November 20, 2007(2007-11-20)",49
+6,Matt Grant,9,"March 17, 2008(2008-03-17)","May 12, 2008(2008-05-12)",85
+6,Jason Mesnick,11,"January 5, 2009(2009-01-05)","March 3, 2009(2009-03-03)",24
+6,Jake Pavelka,10,"January 4, 2010(2010-01-04)","March 1, 2010(2010-03-01)",23
+6,Brad Womack,12,"January 3, 2011(2011-01-03)","March 14, 2011(2011-03-14)",35
+6,Ben Flajnik,12,"January 2, 2012(2012-01-02)","March 12, 2012(2012-03-12)",49
+6,Sean Lowe,13,"January 7, 2013(2013-01-07)","March 11, 2013(2013-03-11)",41
+6,Juan Pablo Galavis,12,"January 6, 2014(2014-01-06)","March 10, 2014(2014-03-10)",32
+6,Chris Soules,13,"January 5, 2015(2015-01-05)","March 9, 2015(2015-03-09)",46
+6,Ben Higgins,12,"January 4, 2016(2016-01-04)","March 14, 2016(2016-03-14)",41
+6,Nick Viall,13,"January 2, 2017(2017-01-02)","March 13, 2017(2017-03-13)",33
+6,Arie Luyendyk Jr.,12,"January 1, 2018(2018-01-01)","March 6, 2018(2018-03-06)",47
+6,Colton Underwood,12,"January 7, 2019(2019-01-07)","March 12, 2019(2019-03-12)",47
+6,Peter Weber,12,"January 6, 2020(2020-01-06)","March 10, 2020(2020-03-10)",35
+6,Matt James,12,"January 4, 2021(2021-01-04)","March 15, 2021(2021-03-15)",37
+6,Clayton Echard,12,"January 3, 2022(2022-01-03)","March 15, 2022(2022-03-15)",53
+6,Zach Shallcross,11,"January 23, 2023(2023-01-23)","March 27, 2023(2023-03-27)",63
+6,Joey Graziadei,11,"January 22, 2024(2024-01-22)","March 25, 2024(2024-03-25)",TBA
+6,Grant Ellis,TBA,"January 27, 2025(2025-01-27)",TBA,TBA
+7,Alex Michel,7,"March 25, 2002(2002-03-25)","April 25, 2002(2002-04-25)",—
+7,Aaron Buerge,9,"September 25, 2002(2002-09-25)","November 20, 2002(2002-11-20)",—
+7,Andrew Firestone,10,"March 26, 2003(2003-03-26)","May 21, 2003(2003-05-21)",—
+7,Bob Guiney,10,"September 24, 2003(2003-09-24)","November 20, 2003(2003-11-20)",—
+7,Jesse Palmer,9,"April 7, 2004(2004-04-07)","May 26, 2004(2004-05-26)",—
+7,Byron Velvick,10,"September 22, 2004(2004-09-22)","November 24, 2004(2004-11-24)",—
+7,Charlie O'Connell,8,"March 28, 2005(2005-03-28)","May 16, 2005(2005-05-16)",—
+7,Travis Lane Stork,8,"January 9, 2006(2006-01-09)","February 27, 2006(2006-02-27)",57
+7,Lorenzo Borghese,8,"October 2, 2006(2006-10-02)","November 27, 2006(2006-11-27)",83
+7,Andrew Baldwin,9,"April 7, 2007(2007-04-07)","May 22, 2007(2007-05-22)",52
+7,Brad Womack,10,"September 24, 2007(2007-09-24)","November 20, 2007(2007-11-20)",49
+7,Matt Grant,9,"March 17, 2008(2008-03-17)","May 12, 2008(2008-05-12)",85
+7,Jason Mesnick,11,"January 5, 2009(2009-01-05)","March 3, 2009(2009-03-03)",24
+7,Jake Pavelka,10,"January 4, 2010(2010-01-04)","March 1, 2010(2010-03-01)",23
+7,Brad Womack,12,"January 3, 2011(2011-01-03)","March 14, 2011(2011-03-14)",35
+7,Ben Flajnik,12,"January 2, 2012(2012-01-02)","March 12, 2012(2012-03-12)",49
+7,Sean Lowe,13,"January 7, 2013(2013-01-07)","March 11, 2013(2013-03-11)",41
+7,Juan Pablo Galavis,12,"January 6, 2014(2014-01-06)","March 10, 2014(2014-03-10)",32
+7,Chris Soules,13,"January 5, 2015(2015-01-05)","March 9, 2015(2015-03-09)",46
+7,Ben Higgins,12,"January 4, 2016(2016-01-04)","March 14, 2016(2016-03-14)",41
+7,Nick Viall,13,"January 2, 2017(2017-01-02)","March 13, 2017(2017-03-13)",33
+7,Arie Luyendyk Jr.,12,"January 1, 2018(2018-01-01)","March 6, 2018(2018-03-06)",47
+7,Colton Underwood,12,"January 7, 2019(2019-01-07)","March 12, 2019(2019-03-12)",47
+7,Peter Weber,12,"January 6, 2020(2020-01-06)","March 10, 2020(2020-03-10)",35
+7,Matt James,12,"January 4, 2021(2021-01-04)","March 15, 2021(2021-03-15)",37
+7,Clayton Echard,12,"January 3, 2022(2022-01-03)","March 15, 2022(2022-03-15)",53
+7,Zach Shallcross,11,"January 23, 2023(2023-01-23)","March 27, 2023(2023-03-27)",63
+7,Joey Graziadei,11,"January 22, 2024(2024-01-22)","March 25, 2024(2024-03-25)",TBA
+7,Grant Ellis,TBA,"January 27, 2025(2025-01-27)",TBA,TBA
+8,Alex Michel,7,"March 25, 2002(2002-03-25)","April 25, 2002(2002-04-25)",—
+8,Aaron Buerge,9,"September 25, 2002(2002-09-25)","November 20, 2002(2002-11-20)",—
+8,Andrew Firestone,10,"March 26, 2003(2003-03-26)","May 21, 2003(2003-05-21)",—
+8,Bob Guiney,10,"September 24, 2003(2003-09-24)","November 20, 2003(2003-11-20)",—
+8,Jesse Palmer,9,"April 7, 2004(2004-04-07)","May 26, 2004(2004-05-26)",—
+8,Byron Velvick,10,"September 22, 2004(2004-09-22)","November 24, 2004(2004-11-24)",—
+8,Charlie O'Connell,8,"March 28, 2005(2005-03-28)","May 16, 2005(2005-05-16)",—
+8,Travis Lane Stork,8,"January 9, 2006(2006-01-09)","February 27, 2006(2006-02-27)",57
+8,Lorenzo Borghese,8,"October 2, 2006(2006-10-02)","November 27, 2006(2006-11-27)",83
+8,Andrew Baldwin,9,"April 7, 2007(2007-04-07)","May 22, 2007(2007-05-22)",52
+8,Brad Womack,10,"September 24, 2007(2007-09-24)","November 20, 2007(2007-11-20)",49
+8,Matt Grant,9,"March 17, 2008(2008-03-17)","May 12, 2008(2008-05-12)",85
+8,Jason Mesnick,11,"January 5, 2009(2009-01-05)","March 3, 2009(2009-03-03)",24
+8,Jake Pavelka,10,"January 4, 2010(2010-01-04)","March 1, 2010(2010-03-01)",23
+8,Brad Womack,12,"January 3, 2011(2011-01-03)","March 14, 2011(2011-03-14)",35
+8,Ben Flajnik,12,"January 2, 2012(2012-01-02)","March 12, 2012(2012-03-12)",49
+8,Sean Lowe,13,"January 7, 2013(2013-01-07)","March 11, 2013(2013-03-11)",41
+8,Juan Pablo Galavis,12,"January 6, 2014(2014-01-06)","March 10, 2014(2014-03-10)",32
+8,Chris Soules,13,"January 5, 2015(2015-01-05)","March 9, 2015(2015-03-09)",46
+8,Ben Higgins,12,"January 4, 2016(2016-01-04)","March 14, 2016(2016-03-14)",41
+8,Nick Viall,13,"January 2, 2017(2017-01-02)","March 13, 2017(2017-03-13)",33
+8,Arie Luyendyk Jr.,12,"January 1, 2018(2018-01-01)","March 6, 2018(2018-03-06)",47
+8,Colton Underwood,12,"January 7, 2019(2019-01-07)","March 12, 2019(2019-03-12)",47
+8,Peter Weber,12,"January 6, 2020(2020-01-06)","March 10, 2020(2020-03-10)",35
+8,Matt James,12,"January 4, 2021(2021-01-04)","March 15, 2021(2021-03-15)",37
+8,Clayton Echard,12,"January 3, 2022(2022-01-03)","March 15, 2022(2022-03-15)",53
+8,Zach Shallcross,11,"January 23, 2023(2023-01-23)","March 27, 2023(2023-03-27)",63
+8,Joey Graziadei,11,"January 22, 2024(2024-01-22)","March 25, 2024(2024-03-25)",TBA
+8,Grant Ellis,TBA,"January 27, 2025(2025-01-27)",TBA,TBA
+9,Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher,Winner
+9,Sadie Murray,23,"Carlsbad, California",Publicist,Week 7
+9,Lisa Blank,25,"Portland, Oregon",Marketing manager,Week 6
+9,Agnese Polliza,24,"Venice, Italy",Student,Week 5
+9,Desiree Valentin,22,"Salt Lake City, Utah",Realtor,Week 4
+9,Erica Rose,23,"Houston, Texas",Attorney,Week 3
+9,Ellen DeMaio,30,"New Haven, Connecticut",Realtor,Week 2
+9,April Jacobs,23,"Hyde Park, Chicago, Illinois",Model,Week 1
+10,Tessa Horst,26,"San Francisco, California",Social Worker,Winner
+10,Bevin Nicole Powers,28,"Palo Alto, California",Assistant,Week 8
+10,Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,Week 7
+10,Amber Alchalabi,23,"Sugar Land, Texas",Teacher,Week 6
+10,Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager,Week 5
+10,Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner,Week 4
+10,Amanda Hackney,26,"Dallas, Texas",Financial analyst,Week 3
+10,Alexis Young,26,"Southlake, Texas",Attorney,Week 2
+10,Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,Week 1
+11,DeAnna Pappas[1],25,"Newnan, Georgia",Realtor,Co-runners-up
+11,Bettina Bell[2],27,"Washington, D.C.",Realtor,Week 7
+11,Sheena Stewart[3],23,"Walnut Creek, California",Internet marketing executive,Week 6
+11,Hillary Reisinger[4],27,"Philadelphia, Pennsylvania",Registered nurse,Week 5
+11,McCarten Delaney[6][7],26,"Lemon Grove, California",Account manager,Week 4
+11,Jade Beazley[8],24,"Nashville, Tennessee",Boutique sales worker,9
+11,Lindsey Hawkins,25,"Livonia, Michigan",Model,Week 3
+11,Erin Gardner,25,"Tampa, Florida",Publishing sales executive,Week 2
+11,Jessica Kiss,27,"Lady Lake, Florida",News anchor,Week 1
+12,Shayne Lamas[2],22,"Malibu, California",Actress,Winner
+12,Chelsea Wanstrath[2],25,"Durango, Colorado",Pharmaceutical sales rep.,Runner-up
+12,Amanda Rantuccio[2],27,"Niceville, Florida",Account Executive,Week 7
+12,Noelle Drake[3],26,"Loveland, Colorado",Photographer,Week 6
+12,Marshana Ritchie[4],27,"Brooklyn, New York",Fashion designer,Week 5
+12,Ashlee Williss[5],22,"Jacksonville Beach, Florida",Singer-songwriter,Week 4
+12,Holly Durst[6][7],24,"Suffield, Ohio",Children's book author,9
+12,Amy Bean,22,"Stockton, California",Nanny,Week 3
+12,"Caroline ""Carri"" Perrier[9][10]",25,"Oklahoma City, Oklahoma",Church marketing rep.,Week 2
+12,Alyssa Johnson,24,"Boise, Idaho",Biology student,Week 1
+13,Melissa Rycroft[9],25,"Dallas, Texas",Sales Representative,Winner
+13,Molly Malaney[10],24,"Brookfield, Wisconsin",Department Store Buyer,Runner-Up
+13,Jillian Harris,29,"Peace River, Alberta",Interior Designer,Week 7
+13,Naomi Crespo[11],24,"Carlsbad, California",Flight Attendant,Week 6
+13,Stephanie Hogan[12],34,"Huntsville, Alabama",Medical Marketing Representative,Week 5
+13,Lauren Wanger,27,"Marlboro, New Jersey",Teacher,Week 4
+13,Nikki Kaapke[15],29,"Blue Island, Illinois",Administrative Assistant,9
+13,Erica DeSimone,25,"Monroe, Connecticut",Account Executive,Week 3
+13,Natalie Getz[17],27,"Morton, Illinois",Human Resources Recruiter,12
+13,Raquel Medeiros[18],27,"Recife, Pernambuco[a]",Medical Student,Week 2
+13,Lisa Gonzalez[20],28,"Boise, Idaho",Public Relations Associate,15 (quit)
+13,Ann Lueders,24,"Phoenix, Arizona",Flight Attendant,Week 1
+14,Vienna Girardi[1],23,"Geneva, Florida",Marketing Representative,Winner
+14,Tenley Molzahn[2],25,"Newberg, Oregon",College Admissions,Runner-Up
+14,Gia Allemand[3],26,"Manorville, New York",Swimsuit Model,Week 7
+14,Ali Fedotowsky[4][3],25,"Williamstown, Massachusetts",Advertising Account Manager,Week 6
+14,Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,Week 5
+14,Ashleigh Hunt[4],25,"North Potomac, Maryland",Account Manager,Week 4
+14,Kathryn Sherlock[5],25,"Lexington, Kentucky",Corporate Flight Attendant,8
+14,Ella Nolan[4][3],30,"La Follette, Tennessee",Hair Stylist,9
+14,Elizabeth Kitt (NE)[3],29,"Imperial, Nebraska",Nanny,Week 3
+14,Michelle Kujawa[3],26,"Anaheim, California",Office Manager,12
+14,Ashley Elmore[7],29,"Pittsburgh, Pennsylvania",Teacher,Week 2
+14,Rozlyn Papa[3],28,"Richmond, Virginia",Model/Make-Up Artist,15 (DQ)
+14,"Alexa ""Lex"" McAllister[9]",25,"Galloway, Ohio",Entrepreneur,Week 1
+15,Emily Maynard[7],24,"Morgantown, West Virginia",Children's Hospital Event Planner,Winner
+15,Chantal O'Brien[9],28,"Mercer Island, Washington",Executive Assistant,Runner-up
+15,Ashley Hebert[10],26,"Madawaska, Maine",Dental Student,Week 9
+15,Shawntel Newton[12],25,"Chico, California",Funeral Director,Week 8
+15,Michelle Money,30,"Salt Lake City, Utah",Hairstylist,Week 7
+15,Britt Billmaier[9],25,"Woodinville, Washington",Food Writer,6
+15,Jackie Gordon[15],26,"Newport, Rhode Island",Artist,Week 6
+15,"Allison ""Alli"" Travis[17]",24,"Worthington, Ohio",Apparel Merchant,8
+15,Lisa Morrisey[18],24,"Ottawa, Kansas",Marketing Coordinator,Week 5
+15,Ashley Spivey[21],26,"Ellerbe, North Carolina",Nanny,11
+15,Lindsay Hill[22],25,"Plano, Texas",First Grade Teacher,Week 4
+15,Kimberly Coon[24],27,"Orlando, Florida",Marketing Coordinator,Week 3
+15,Madison Garton[27],25,"Vail, Colorado",Model,17 (quit)
+15,Keltie Busch[28],28,"Sherwood Park, Alberta",Radio City Rockette,Week 2
+15,Britnee Marks[30],25,"Holland, Pennsylvania",Paralegal,Week 1
+16,Courtney Robertson[7][8],28,"Scottsdale, Arizona",Model,Winner
+16,Lindzi Cox[9],27,"Ocala, Florida",Business Development Manager,Runner-up
+16,Nicki Sterling[7],26,"Hurst, Texas",Dental Hygienist,Week 9
+16,Kacie Boguskie[10],24,"Clarksville, Tennessee",Administrative Assistant,Week 8
+16,Emily O'Brien[11],27,"Chapel Hill, North Carolina",PhD Student,Week 7
+16,Jamie Otis[13],25,"Dryden, New York",Registered Nurse,Week 6
+16,Casey Shteamer[14],26,"Leawood, Kansas",Trading Clerk,8 (DQ)
+16,Blakeley Jones[11],34,"Rutherfordton, North Carolina",VIP Cocktail Waitress,9
+16,Jennifer Fritsch[14],28,"Cache, Oklahoma",Accountant,Week 5
+16,Elyse Myers[14],24,"Chicago, Illinois",Personal Trainer,11
+16,Monica Spannbauer[15],33,"Yuba, California",Dental Consultant,Week 4
+16,Samantha Levey[16][17],26,"Pittsburgh, Pennsylvania",Advertising Account Manager,13
+16,Erika Uhlig[18],23,"Charlottesville, Virginia",Law Student,Week 3
+16,Brittney Schreiner[7],26,"Colorado Springs, Colorado",Medical Sales Representative,16 (quit)
+16,Jenna Burke[20][21],27,"Loveland, Ohio",Blogger,Week 2
+16,Amber Bacon[23],23,"Port Coquitlam, British Columbia",Labor and Delivery Nurse,Week 1
+17,Catherine Giudici[14],26,"Seattle, Washington",Graphic Designer,Winner
+17,Lindsay Yenter[15],24,"Fort Leonard Wood, Missouri",Substitute Teacher,Runner-up
+17,AshLee Frazier[16],32,"Houston, Texas",Personal Organizer,Week 9
+17,Desiree Hartsock[17],26,"Northglenn, Colorado",Bridal Stylist,Week 8
+17,Lesley Murphy[18],25,"Fort Smith, Arkansas",Political Consultant,Week 7
+17,Tierra LiCausi[19],24,"Las Vegas, Nevada",Leasing Consultant,6
+17,Daniella McBride[20],24,"Belmont, California",Commercial Casting Associate,Week 6
+17,Sarah Herron[17][22],26,"Evergreen, Colorado",Advertising Executive,9
+17,Robyn Howard[16][23],24,"Topeka, Kansas",Oil Field Account Manager,Week 5
+17,Jackie Parr[24],25,"Ormond Beach, Florida",Cosmetics Consultant,11
+17,Amanda Meyer[17],26,"Bakersfield, California",Fit Model,Week 4
+17,Leslie Hughes[17],28,"Ruskin, Florida",Poker Dealer,13
+17,Kristy Kaminski[25],25,"Darien, Wisconsin",Model,Week 3
+17,Kacie Boguskie[27],25,"Clarksville, Tennessee",Administrative Assistant,16
+17,Brooke Burchette[28],25,"Pittsburgh, Pennsylvania",Community Organizer,Week 2
+17,Katie Levans[30],27,"Woodstock, Illinois",Yoga Instructor,19 (quit)
+17,Ashley Harper[31],25,"Garner, North Carolina",Fashion Model,Week 1
+18,Nikki Ferrell[6][7],26,"Kearney, Missouri",Pediatric Nurse,Winner
+18,Clare Crawley[8],32,"Sacramento, California",Hairstylist,Runner-up
+18,Andi Dorfman[9],26,"Buckhead, Georgia",Assistant District Attorney,Week 9
+18,Renee Oteri[10],32,"Martha's Vineyard, Massachusetts",Real Estate Agent,Week 8
+18,Chelsie Webster[11],24,"Lexington, Ohio",Science Educator,Week 7
+18,Sharleen Joynt[12][13],29,"Ottawa, Ontario[a]",Opera Singer,6 (quit)
+18,"Katherine ""Kat"" Hurd",29,"Iowa City, Iowa",Medical Sales Rep,Week 6
+18,Cassandra Ferguson[14],22,"Rochester Hills, Michigan",Former NBA Dancer,8
+18,"Allison ""Alli"" Restko[13]",26,"Orland Park, Illinois",Nanny,Week 5
+18,Elise Mosca[16],27,"Forty Fort, Pennsylvania",First Grade Teacher,Week 4
+18,Christy Hansen[18],24,"Aurora, Illinois",Marketing Manager,Week 3
+18,Amy Long[19],27,"Clermont, Florida",Local News Reporter,Week 2
+18,Victoria Lima[13],24,"Porto Alegre, Brazil[b]",Legal Assistant,18
+18,Alexis Morgado[13][21],24,"Tampa, Florida",Communications Director,Week 1
+19,Whitney Bischoff[7][8],29,"Louisville, Kentucky",Fertility Nurse,Winner
+19,Becca Tilley[10][11],25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up
+19,Kaitlyn Bristowe[12],29,"Leduc, Alberta",Dance Instructor,Week 9
+19,Jade Roper[8][14],28,"Gering, Nebraska",Cosmetics Developer,Week 8
+19,Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,Week 7
+19,Britt Nilsson[8][14],27,"Wolcott Mills, Michigan",Waitress,6
+19,Megan Bell[7],24,"Brentwood, Tennessee",Make-Up Artist,Week 6
+19,Kelsey Poe[8][17],28,"Hudsonville, Michigan",Guidance Counselor,8
+19,Ashley Iaconetti[8][19],26,"Great Falls, Virginia",Journalist,9
+19,Mackenzie Deonigi[7],21,"Maple Valley, Washington",Dental Assistant,Week 5
+19,Ashley Salter[21],24,"Vinings, Georgia",Hair Stylist,Week 4
+19,Jillian Anderson[23][24],25,"Howland, Ohio",News Producer,15
+19,Amber James[7][25],29,"Kankakee, Illinois",Bartender,Week 3
+19,Alissa Giambrone[19],24,"Hamilton, New Jersey",Flight Attendant,Week 2
+19,Kimberly Sherbach[31],28,"Wantagh, New York",Yoga Instructor,[29][32]
+19,Tandra Steiner[7],30,"Sandy, Utah",Executive Assistant,[29]
+19,Amanda Goerlitz[28],24,"Lake in the Hills, Illinois",Ballet Teacher,Week 1
+20,Lauren Bushnell[9],25,"West Linn, Oregon",Flight Attendant,Winner
+20,"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Runner-up
+20,Caila Quinn[12],24,"Hudson, Ohio",Software Sales Representative,Week 9
+20,Amanda Stanton[11][14],25,"Laguna Beach, California",Esthetician,Week 8
+20,Becca Tilley[16],26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7
+20,Emily Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,6
+20,Lauren Himle[18],25,"Dexter, Michigan",Kindergarten Teacher,Week 6
+20,Olivia Caridi[5][11],23,"Austin, Texas",Former News Anchor,8
+20,Leah Block[20],25,"Greenwood Village, Colorado",Event Planner,9
+20,Jennifer Saviano[21],25,"Davie, Florida",Small Business Owner,Week 5
+20,Jubilee Sharpe[11],24,"Fort Lauderdale, Florida",War Veteran,11
+20,Amber James[23],30,"Kankakee, Illinois",Bartender,Week 4
+20,Haley Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,14
+20,Jami Letain[26],23,"St. Albert, Alberta",Bartender,Week 3
+20,Lace Morris[20],25,"Denver, Colorado",Real Estate Agent,17 (quit)
+20,"Amanda ""Mandi"" Kremer[29]",28,"Portland, Oregon",Dentist,Week 2
+20,"Lauren ""LB"" Barr[33]",23,"Stillwater, Oklahoma",Fashion Buyer,21 (quit)
+20,Breanne Rice[34],30,"Seattle, Washington",Nutritional Therapist,Week 1
+21,Vanessa Grimaldi[9],29,"Montreal, Quebec",Special Education Teacher,Winner
+21,Raven Gates[11][12],25,"Hoxie, Arkansas",Fashion Boutique Owner,Runner-Up
+21,Rachel Lindsay[11],31,"Dallas, Texas",Attorney,Week 9
+21,Corinne Olympios[11][14],24,"Miami, Florida",Business Owner,Week 8
+21,Kristina Schulman[16],24,"Lexington, Kentucky",Dental Hygienist,Week 7
+21,Danielle Maltby[18],31,"Colgate, Wisconsin",Neonatal Nurse,6
+21,Danielle Lombard[12][19],27,"Danville, California",Small Business Owner,Week 6
+21,Whitney Fransway[21],25,"Chanhassen, Minnesota",Pilates Instructor,8
+21,Jasmine Goode[22][23],29,"Maplewood, New Jersey",Pro Basketball Dancer,9
+21,Alexis Waters[11][24],23,"Secaucus, New Jersey",Aspiring Dolphin Trainer,Week 5
+21,Taylor Nolan[26],23,"Seattle, Washington",Mental Health Counselor,13
+21,Astrid Loch[28],26,"Tampa, Florida",Plastic Surgery Office Manager,Week 4
+21,Brittany Farrar[19],26,"Santa Monica, California",Travel Nurse,Week 3
+21,Dominique Alexis[19],25,"Los Angeles, California",Restaurant Server,18
+21,Elizabeth Whitelaw[33],24,"New Trier, Illinois",Marketing Manager,Week 2
+21,"Elizabeth ""Liz"" Sandoz[11]",29,"Scottsbluff, Nebraska",Doula,22
+21,Angela Amezcua[37],26,"Cumberland, Maryland",Model,Week 1
+22,Becca Kufrin[9],27,"Prior Lake, Minnesota",Publicist,Winner
+22,Lauren Burnham[11],25,"Virginia Beach, Virginia",Technology Salesperson,Runner-up
+22,Kendall Long[12],26,"Santa Clarita, California",Creative Director,Week 9
+22,Tia Booth[14],26,"Weiner, Arkansas",Physical Therapist,Week 8
+22,Bekah Martinez[12][16],22,"Clovis, California",Nanny,Week 7
+22,Seinne Fleming[12][18],27,"Long Beach, California",Commercial Real Estate Agent,6
+22,Jacqueline Trumbull[19],26,"Morgantown, West Virginia",Research Coordinator,7 (quit)
+22,Chelsea Roy[12][20][21],29,"South Portland, Maine",Real Estate Executive Assistant,Week 6
+22,Krystal Nielson[25],29,"Missoula, Montana",Fitness Coach,10
+22,Ashley Luebke[6],25,"West Palm Beach, Florida",Real Estate Agent,Week 5
+22,Brittany Taylor[29],30,"Belton, South Carolina",Tech Recruiter,Week 4
+22,Bibiana Julian[12][6],30,"Miami, Florida",Executive Assistant,Week 3
+22,Annaliese Puccini[33],32,"San Mateo, California",Event Designer,17
+22,Lauren Schleyer[11],31,"Dallas, Texas",Social Media Manager,18
+22,"Jennifer ""Jenny"" Delaney[34]",25,"Northbrook, Illinois",Graphic Designer,Week 2
+22,"Alison ""Ali"" Harrington[11]",27,"Lawton, Oklahoma",Personal Stylist,Week 1
+23,Cassie Randolph[14],23,"Huntington Beach, California",Speech Pathologist,Winner
+23,Hannah Godwin[16],23,"Birmingham, Alabama",Content Creator,Week 9
+23,Tayshia Adams[18],28,"Santa Ana, California",Phlebotomist,3
+23,Caelynn Miller-Keyes[20],23,"Fredericksburg, Virginia",Miss North Carolina USA2018,Week 8
+23,Kirpa Sudick[22],26,"Whittier, California",Dental Hygienist,Week 7
+23,Heather Martin[24],23,"Carlsbad, California",Assistant Program Manager,6 (quit)
+23,Hannah Brown[16],24,"Northport, Alabama",Miss Alabama USA2018,7
+23,Katie Morton[25],26,"Oviedo, Florida",Medical Sales Representative,Week 6
+23,Demi Burnett[27],23,"Red Oak, Texas",Interior Designer,9
+23,Sydney Lotuaco[22],27,"Virginia Beach, Virginia",NBA Dancer,10 (quit)
+23,Nicole Lopez-Alvar[28],25,"Miami, Florida",Social Media Coordinator,Week 5
+23,Elyse Dehlbom[29],31,"Soldotna, Alaska",Makeup Artist,13 (quit)
+23,Courtney Curtis[22],23,"McDonough, Georgia",Caterer,Week 4
+23,"Brianna ""Bri"" Barnes[33]",24,"Chino Hills, California",Model,Week 3
+23,Caitlin Clemmens[35],25,"Toronto, Ontario",Realtor,19
+23,Alex Blumberg[22],29,"Vancouver, British Columbia",Dog Rescuer,Week 2
+23,Alex Dillon[38],23,"Dennis, Massachusetts",Sloth,Week 1
+24,Hannah Ann Sluss[22],23,"Powell, Tennessee",Model,Winner
+24,Madison Prewett[14][23],23,"Auburn, Alabama",Foster Parent Recruiter,Runner-up
+24,Victoria Fuller[25],26,"Virginia Beach, Virginia",Medical Sales Rep,Week 9
+24,Kelsey Weier[12],28,"Urbandale, Iowa",Professional Clothier,Week 8
+24,Kelley Flanagan[27],27,"North Barrington, Illinois",Attorney,Week 7
+24,Natasha Parker[29],31,"Manhattan, New York",Event Planner,6
+24,Mykenna Dorn[30],22,"Langley, British Columbia",Fashion Blogger,Week 6
+24,Tammy Ly[33],24,"Syracuse, New York",House Flipper,9
+24,Victoria Paul[11][34],27,"Alexandria, Louisiana",Nurse,10
+24,Lexi Buchanan[35],26,"Jacksonville, Florida",Marketing Coordinator,Week 5
+24,Deandra Kanu[37],23,"Bar Harbor, Maine",Home Care Coordinator,Week 4
+24,Alayah Benavidez[10],24,"Helotes, Texas",Orthodontist Assistant,16
+24,Alayah Benavidez,(Returned to competition),Week 3,,[18]
+24,Alexa Caves[27],27,"Springfield, Illinois",Esthetician,17–19
+24,Courtney Perry[39],26,"Venice, Florida",Cosmetologist,Week 2
+24,Avonlea Elkins[10],27,"Fort Worth, Texas",Cattle Rancher,Week 1
+25,Rachael Kirkconnell[17],24,"Cumming, Georgia",Graphic Designer,Week 1
+25,Michelle Young[19][20],27,"Woodbury, Minnesota",Teacher,Week 3
+25,"Brianna ""Bri"" Springs[21][22]",24,"San Antonio, Texas",Communications Manager,Week 1
+25,Serena Pitt[24][25],23,"Markham, Ontario",Publicist,Week 8
+25,Pieper James[27],23,"Happy Valley, Oregon",Graduate Student,Week 7
+25,Jessenia Cruz[22],27,"El Paso, Texas",Social Media Marketer,6
+25,Kit Keenan[6],21,"Manhattan, New York",Fashion Entrepreneur,7 (quit)
+25,Abigail Heringer[8][27],25,"Salem, Oregon",Client Financial Manager,8
+25,Chelsea Vaughn[28],28,"Marietta, Georgia",Runway Model,Week 6
+25,Katie Thurston[24][30],29,"Lynnwood, Washington",Bank Marketing Manager,11
+25,Brittany Galvin[20][31],23,"Hinsdale, Illinois",Model,Week 3
+25,"Mearg ""Magi"" Tareke[32]",32,"Adwa, Ethiopia[b]",Pharmacist,Week 1
+25,Ryan Claytor[20],26,"Mechanicsville, Virginia",Dancer/Choreographer,Week 3
+25,"Meredith ""MJ"" Snyder[33]",23,"Hudson, Ohio",Hairstylist,Week 1
+25,Catalina Morales[34],29,"Caguas, Puerto Rico[c]",FormerMiss Universe Puerto Rico,Week 3
+25,Lauren Maddox[36],29,"Miami, Florida",Corporate Attorney,Week 1
+25,Anna Redman[39][40],24,"Owatonna, Minnesota",Copywriter,20
+25,Kaili Anderson[40],26,"San Diego, California",Hostess,Week 3
+25,"Kimberly ""Kim"" Li[20]",28,"Cypress, California",ICU Nurse,Week 3
+25,Sarah Trott[42],24,"Scripps Ranch, California",Broadcast Journalist,Week 1
+25,Alana Milne[22],26,"San Antonio, Texas",Photographer,Week 2
+25,Alicia Holloway[46],24,"Morgantown, West Virginia",Professional Ballerina,Week 1
+26,Susie Evans[27][28],28,"Poquoson, Virginia",Wedding Videographer,Winner
+26,"Gabriela ""Gabby"" Windey[16][30]",30,"O'Fallon, Illinois",ICU Nurse,Runner-Up(Week 10)
+26,Susie Evans,(Returned to competition),Week 9,[a],[32]
+26,Serene Russell[33],26,"Oklahoma City, Oklahoma",Elementary School Teacher,Week 8
+26,Teddi Wright[31][35],24,"Redlands, California",Surgical Unit Nurse,Week 7
+26,Sarah Hamrick[14][36],23,"Spartanburg, South Carolina",Wealth Management Advisor,6
+26,Genevieve Parisi[37][38],26,"Rehoboth, Massachusetts",Bartender,7
+26,Eliza Isichei[39],25,"Tampa, Florida[b]",Marketing Manager,Week 6
+26,Hunter Haag[42],28,"Lake Wylie, South Carolina",Human Resources Specialist,Week 5
+26,Shanae Ankney[44],29,"Sycamore, Ohio",Recruiter,12
+26,"Jillian ""Jill"" Chin[37]",26,"Scituate, Rhode Island",Architectural Historian,Week 4
+26,Elizabeth Corrigan[47],32,"Highlands Ranch, Colorado",Real Estate Advisor,Week 3
+26,Ency Abedin[48],28,"Burbank, California",Sales Manager,Week 2
+26,Cassidy Timbrooks[49],26,"Cave Creek, Arizona",Executive Recruiter,22
+26,Daria Rose[50][51],24,"Baldwin, New York",Law Student,Week 1
+26,Samantha Jeffries[51],26,"Dayton, Ohio",Occupational Therapist,29 (quit)
+26,Claire Heilig[27][51],28,"Virginia Beach, Virginia",Spray Tanner,30
+27,"Kaitlyn ""Kaity"" Biggar[21]",27,"Kingston, Ontario",Travel Nurse,Winner
+27,"Gabriella ""Gabi"" Elnicki[23]",25,"Pittsford, Vermont",Senior Account Executive,Runner-Up
+27,Ariel Frenkel[10][24],28,"Manhattan, New York",Marketing Executive,Week 9
+27,Charity Lawson[26],26,"Columbus, Georgia",Child and Family Therapist,Week 8
+27,Katherine Izzo[28],26,"Tampa, Florida",Registered Nurse,Week 7
+27,Brooklyn Willie[6][30],25,"Mineola, Texas",Rodeo Racer,6
+27,Greer Blitzer[31],24,"Bellaire, Texas",Medical Sales Representative,7
+27,"Alyssa ""Aly"" Jacobs[32][33]",26,"Smyrna, Georgia",Healthcare Strategist,Week 6
+27,"Jessica ""Jess"" Girod[33]",23,"Winter Springs, Florida",E-Commerce Coordinator,9
+27,Kylee Russell[35][36],25,"Charlotte, North Carolina",Postpartum Nurse,Week 5
+27,Davia Bunch[8],25,"Roebuck, South Carolina",Marketing Manager,Week 4
+27,Anastasia Keramidas[39],30,"Baltimore, Maryland",Content Marketing Manager,14
+27,Christina Mandrell[6][7],26,"Hendersonville, Tennessee",Content Creator,Week 3
+27,Brianna Thorbourne[6][41],24,"Jersey City, New Jersey",Entrepreneur,16 (quit)
+27,Bailey Brown[6][42],27,"Brentwood, Tennessee",Executive Recruiter,17
+27,"Catherine ""Cat"" Wong[6][8]",26,"Bushwick, New York",Professional Dancer,Week 2
+27,Becca Serrano[43],25,"Burbank, California",Nursing Student,Week 1
+27,Madison Johnson[52],26,"Fargo, North Dakota",Business Owner,30
+28,Kelsey Anderson[18],25,"Leesville, Louisiana",Junior Project Manager,Winner
+28,Daisy Kent[20][21],25,"Becker, Minnesota",Account Executive,Week 10
+28,Rachel Nance[22],26,"Honolulu, Hawaii",ICU Nurse,Week 9
+28,Maria Georgas[8][24],29,"Kleinburg, Ontario",Executive Assistant,Week 8
+28,"Jennifer ""Jenn"" Tran[26][27]",25,"Hillsdale, New Jersey",PAStudent,Week 7
+28,Katelyn DeBacker[30],26,"Santa Fe, New Mexico",Radiochemist,Week 6
+28,Lexi Young[31],30,"Pataskala, Ohio",Digital Strategist,9 (quit)
+28,"Jessica ""Jess"" Edwards[32]",24,"Erwin, Tennessee",Executive Assistant,10
+28,Autumn Waggoner[33],26,"De Soto, Missouri",Account Executive,Week 5
+28,Allison Hollinger[a][36],26,"Dover, Delaware",Realtor,Week 4
+28,Sydney Gordon[38],28,"Newport, Rhode Island",Vintage Store Owner,15
+28,Chrissa Perez[24][40],26,"Abbotsford, British Columbia",Marketing Director,Week 3
+28,Erika Cardenas[42],25,"North Bergen, New Jersey",Leasing Agent,Week 2
+28,Lauren Hollinger[a][36],28,"Dover, Delaware",Registered Nurse,22 (quit)
+28,Chandler Dewgard[44],24,"Brooklyn, New York",Graphic Designer,Week 1
