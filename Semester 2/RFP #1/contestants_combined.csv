@@ -1,0 +1,697 @@
+Season,Name,Age,Hometown,Occupation,Outcome,Place,Age Difference,Show
+1,Amanda Marsh,23,"Chanute, Kansas",Event Planner,Winner,1,8.0,Bachelor
+1,Trista Rehn,29,"St. Louis, Missouri",Miami Heat Dancer,Runner-up,2,2.0,Bachelor
+1,Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,Week 5,11,7.0,Bachelor
+1,Kimberly Karels,24,"Tempe, Arizona",Nanny,Week 4,13,7.0,Bachelor
+1,Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,Week 3,18,9.0,Bachelor
+1,Christina Stencil,28,"Bonita, California",Attorney,Week 3,18,3.0,Bachelor
+1,LaNease Adams,23,"Playa Del Rey, California",Actress,Week 3,18,8.0,Bachelor
+1,Rhonda Rittenhouse,28,"Woodward, Oklahoma",Commercial Real Estate Agent,Week 3,18,3.0,Bachelor
+1,Alexa Jurgielewicz,27,"Beverly Hills, California",Special Ed. Teacher,Week 2,20,4.0,Bachelor
+1,Amy Anzel,28,"Yonkers, New York",Production Coordinator,Week 2,20,3.0,Bachelor
+1,Angela Lowery,25,"Avondale, Arizona",Hooters Waitress,Week 2,20,6.0,Bachelor
+1,Angelique Madrid,27,"Burbank, California",Actress,Week 2,20,4.0,Bachelor
+1,Katie Sapienza,23,"Malden, Massachusetts",Power Tool Sales Rep.,Week 2,20,8.0,Bachelor
+1,Melissa Reese,25,"Tempe, Arizona",Photographer,Week 2,20,6.0,Bachelor
+1,Tina Chen,27,"Plano, Texas",Graduate Student,Week 2,20,4.0,Bachelor
+1,Amber Johnson,29,"Los Angeles, California",Business Development Director,Week 1,23,2.0,Bachelor
+1,Daniela Ferdico,30,"Seattle, Washington",Neuropsychologist,Week 1,23,1.0,Bachelor
+1,Denise Kellaher,30,"Honolulu, Hawaii",Doctor,Week 1,23,1.0,Bachelor
+1,Jackie Hucko,22,"Pittsburgh, Pennsylvania",Bar Manager,Week 1,23,9.0,Bachelor
+1,Jill Gosser,31,"Chicago, Illinois",Retail Manager,Week 1,23,0.0,Bachelor
+1,Kristina Jenkins,27,"Chelsea, New York",Advertising Executive,Week 1,23,4.0,Bachelor
+1,Lisa Gold,29,"Dallas, Texas",Attorney,Week 1,23,2.0,Bachelor
+1,Paula Oliveira,24,"Swansea, Massachusetts",Insurance Representative,Week 1,23,7.0,Bachelor
+1,Rachel Lanzilotto,29,"Eastchester, New York",6th Grade Teacher,Week 1,23,2.0,Bachelor
+1,Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,Week 1,23,5.0,Bachelor
+2,Helene Eksterowicz,27,"Gloucester, New Jersey",School Psychologist,Winner,1,1.0,Bachelor
+2,Brooke Smith,22,"Albertville, Alabama",College Student,Runner-up,2,6.0,Bachelor
+2,Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,Week 6,7,-3.0,Bachelor
+2,Angela Vaught,27,"Kansas City, Missouri",Registered Nurse,Week 5,11,1.0,Bachelor
+2,Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,Week 4,13,0.0,Bachelor
+2,Heather Cranford,30,"Dallas, Texas",Flight Attendant,Week 4,13,-2.0,Bachelor
+2,Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor,Week 3,18,5.0,Bachelor
+2,Heather Campion,24,"Walnut Creek, California",Marriage Therapy Trainee,Week 3,18,4.0,Bachelor
+2,Kyla Dickerson,22,"Midvale, Utah",Airline Supervisor,Week 3,18,6.0,Bachelor
+2,Shannon Fries,26,"North Lindenhurst, New York",Graphic Artist,Week 3,18,2.0,Bachelor
+2,Dana Norris,24,"Beverly Hills, California",Radio Sales,Week 2,20,4.0,Bachelor
+2,Erin Lulevitch,25,"West Chester, Pennsylvania",Publications Quality Control,Week 2,20,3.0,Bachelor
+2,Suzanne Freeman,33,"Redondo Beach, California",Flight Attendant,Week 2,20,-5.0,Bachelor
+2,Frances Dinglasan,30,"San Francisco, California",Strategic Planning Analyst,Week 2 (Quit),20,-2.0,Bachelor
+2,Anindita Dutta,27,"Brooklyn, New York",Attorney,Week 2 (Quit),20,1.0,Bachelor
+2,Amber West,26,"Chapel Hill, North Carolina",Psychologist,Week 1,23,2.0,Bachelor
+2,Camille Langfield,29,"Sherman Oaks, California",Actress,Week 1,23,-1.0,Bachelor
+2,Cari,29,"Granite City, Illinois",3rd Grade Teacher,Week 1,23,-1.0,Bachelor
+2,Christy,24,"Avondale, Arizona",Radiological Technologist,Week 1,23,4.0,Bachelor
+2,Erin A.,24,"Houston, Texas",Interior Designer,Week 1,23,4.0,Bachelor
+2,Fatima Rivas,22,"Long Beach, California",College Student,Week 1,23,6.0,Bachelor
+2,Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,Week 1,23,-2.0,Bachelor
+2,Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,Week 1,23,2.0,Bachelor
+2,Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,Week 1,23,0.0,Bachelor
+2,Suzi Reid,28,"Richmond, Virginia",Communications Specialist,Week 1,23,0.0,Bachelor
+5,Jessica Bowlin,22,"Huntington Beach, California",Student,Winner,1,3.0,Bachelor
+5,Tara Huckeby,23,"Shawnee, Oklahoma",General Contractor,Week 7,5,2.0,Bachelor
+5,Mandy Jaye Jeffreys,26,"Midland, Texas",Architect Designer,Week 6,7,-1.0,Bachelor
+5,Trish Schneider,28,"Atlanta, Georgia",Model,Week 5,11,-3.0,Bachelor
+5,Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical Salesperson,Week 4,13,-3.0,Bachelor
+5,Jenny De Schiralli,26,"Carrboro, North Carolina",Swim Instructor,Week 3,18,-1.0,Bachelor
+5,Amber LaRoux,27,"Sunriver, Oregon",Consultant,Week 2,20,-2.0,Bachelor
+5,DeShaun Warner,25,"Phillipsburg, New Jersey",Account Manager,Week 1,23,0.0,Bachelor
+9,Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher,Winner,1,10.0,Bachelor
+9,Sadie Murray,23,"Carlsbad, California",Publicist,Week 7,5,11.0,Bachelor
+9,Lisa Blank,25,"Portland, Oregon",Marketing manager,Week 6,7,9.0,Bachelor
+9,Agnese Polliza,24,"Venice, Italy",Student,Week 5,11,10.0,Bachelor
+9,Desiree Valentin,22,"Salt Lake City, Utah",Realtor,Week 4,13,12.0,Bachelor
+9,Erica Rose,23,"Houston, Texas",Attorney,Week 3,18,11.0,Bachelor
+9,Ellen DeMaio,30,"New Haven, Connecticut",Realtor,Week 2,20,4.0,Bachelor
+9,April Jacobs,23,"Hyde Park, Chicago, Illinois",Model,Week 1,23,11.0,Bachelor
+10,Tessa Horst,26,"San Francisco, California",Social Worker,Winner,1,4.0,Bachelor
+10,Bevin Nicole Powers,28,"Palo Alto, California",Assistant,Week 8,4,2.0,Bachelor
+10,Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,Week 7,5,5.0,Bachelor
+10,Amber Alchalabi,23,"Sugar Land, Texas",Teacher,Week 6,7,7.0,Bachelor
+10,Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager,Week 5,11,7.0,Bachelor
+10,Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner,Week 4,13,6.0,Bachelor
+10,Amanda Hackney,26,"Dallas, Texas",Financial analyst,Week 3,18,4.0,Bachelor
+10,Alexis Young,26,"Southlake, Texas",Attorney,Week 2,20,4.0,Bachelor
+10,Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,Week 1,23,1.0,Bachelor
+11,DeAnna Pappas[1],25,"Newnan, Georgia",Realtor,Co-runners-up,2,9.0,Bachelor
+11,Bettina Bell[2],27,"Washington, D.C.",Realtor,Week 7,5,7.0,Bachelor
+11,Sheena Stewart[3],23,"Walnut Creek, California",Internet marketing executive,Week 6,7,11.0,Bachelor
+11,Hillary Reisinger[4],27,"Philadelphia, Pennsylvania",Registered nurse,Week 5,11,7.0,Bachelor
+11,McCarten Delaney[6][7],26,"Lemon Grove, California",Account manager,Week 4,13,8.0,Bachelor
+11,Jade Beazley[8],24,"Nashville, Tennessee",Boutique sales worker,9,9,10.0,Bachelor
+11,Lindsey Hawkins,25,"Livonia, Michigan",Model,Week 3,18,9.0,Bachelor
+11,Erin Gardner,25,"Tampa, Florida",Publishing sales executive,Week 2,20,9.0,Bachelor
+11,Jessica Kiss,27,"Lady Lake, Florida",News anchor,Week 1,23,7.0,Bachelor
+12,Shayne Lamas[2],22,"Malibu, California",Actress,Winner,1,5.0,Bachelor
+12,Chelsea Wanstrath[2],25,"Durango, Colorado",Pharmaceutical sales rep.,Runner-up,2,2.0,Bachelor
+12,Amanda Rantuccio[2],27,"Niceville, Florida",Account Executive,Week 7,5,0.0,Bachelor
+12,Noelle Drake[3],26,"Loveland, Colorado",Photographer,Week 6,7,1.0,Bachelor
+12,Marshana Ritchie[4],27,"Brooklyn, New York",Fashion designer,Week 5,11,0.0,Bachelor
+12,Ashlee Williss[5],22,"Jacksonville Beach, Florida",Singer-songwriter,Week 4,13,5.0,Bachelor
+12,Holly Durst[6][7],24,"Suffield, Ohio",Children's book author,9,9,3.0,Bachelor
+12,Amy Bean,22,"Stockton, California",Nanny,Week 3,18,5.0,Bachelor
+12,"Caroline ""Carri"" Perrier[9][10]",25,"Oklahoma City, Oklahoma",Church marketing rep.,Week 2,20,2.0,Bachelor
+12,Alyssa Johnson,24,"Boise, Idaho",Biology student,Week 1,23,3.0,Bachelor
+13,Melissa Rycroft[9],25,"Dallas, Texas",Sales Representative,Winner,1,7.0,Bachelor
+13,Molly Malaney[10],24,"Brookfield, Wisconsin",Department Store Buyer,Runner-Up,2,8.0,Bachelor
+13,Jillian Harris,29,"Peace River, Alberta",Interior Designer,Week 7,5,3.0,Bachelor
+13,Naomi Crespo[11],24,"Carlsbad, California",Flight Attendant,Week 6,7,8.0,Bachelor
+13,Stephanie Hogan[12],34,"Huntsville, Alabama",Medical Marketing Representative,Week 5,11,-2.0,Bachelor
+13,Lauren Wanger,27,"Marlboro, New Jersey",Teacher,Week 4,13,5.0,Bachelor
+13,Nikki Kaapke[15],29,"Blue Island, Illinois",Administrative Assistant,9,9,3.0,Bachelor
+13,Erica DeSimone,25,"Monroe, Connecticut",Account Executive,Week 3,18,7.0,Bachelor
+13,Natalie Getz[17],27,"Morton, Illinois",Human Resources Recruiter,12,12,5.0,Bachelor
+13,Raquel Medeiros[18],27,"Recife, Pernambuco[a]",Medical Student,Week 2,20,5.0,Bachelor
+13,Lisa Gonzalez[20],28,"Boise, Idaho",Public Relations Associate,15 ,15,4.0,Bachelor
+13,Ann Lueders,24,"Phoenix, Arizona",Flight Attendant,Week 1,23,8.0,Bachelor
+14,Vienna Girardi[1],23,"Geneva, Florida",Marketing Representative,Winner,1,8.0,Bachelor
+14,Tenley Molzahn[2],25,"Newberg, Oregon",College Admissions,Runner-Up,2,6.0,Bachelor
+14,Gia Allemand[3],26,"Manorville, New York",Swimsuit Model,Week 7,5,5.0,Bachelor
+14,Ali Fedotowsky[4][3],25,"Williamstown, Massachusetts",Advertising Account Manager,Week 6,7,6.0,Bachelor
+14,Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,Week 5,11,8.0,Bachelor
+14,Ashleigh Hunt[4],25,"North Potomac, Maryland",Account Manager,Week 4,13,6.0,Bachelor
+14,Kathryn Sherlock[5],25,"Lexington, Kentucky",Corporate Flight Attendant,8,8,6.0,Bachelor
+14,Ella Nolan[4][3],30,"La Follette, Tennessee",Hair Stylist,9,9,1.0,Bachelor
+14,Elizabeth Kitt (NE)[3],29,"Imperial, Nebraska",Nanny,Week 3,18,2.0,Bachelor
+14,Michelle Kujawa[3],26,"Anaheim, California",Office Manager,12,12,5.0,Bachelor
+14,Ashley Elmore[7],29,"Pittsburgh, Pennsylvania",Teacher,Week 2,20,2.0,Bachelor
+14,Rozlyn Papa[3],28,"Richmond, Virginia",Model/Make-Up Artist,15 (DQ),15,3.0,Bachelor
+14,"Alexa ""Lex"" McAllister[9]",25,"Galloway, Ohio",Entrepreneur,Week 1,23,6.0,Bachelor
+15,Emily Maynard[7],24,"Morgantown, West Virginia",Children's Hospital Event Planner,Winner,1,14.0,Bachelor
+15,Chantal O'Brien[9],28,"Mercer Island, Washington",Executive Assistant,Runner-up,2,10.0,Bachelor
+15,Ashley Hebert[10],26,"Madawaska, Maine",Dental Student,Week 9,3,12.0,Bachelor
+15,Shawntel Newton[12],25,"Chico, California",Funeral Director,Week 8,4,13.0,Bachelor
+15,Michelle Money,30,"Salt Lake City, Utah",Hairstylist,Week 7,5,8.0,Bachelor
+15,Britt Billmaier[9],25,"Woodinville, Washington",Food Writer,6,6,13.0,Bachelor
+15,Jackie Gordon[15],26,"Newport, Rhode Island",Artist,Week 6,7,12.0,Bachelor
+15,"Allison ""Alli"" Travis[17]",24,"Worthington, Ohio",Apparel Merchant,8,8,14.0,Bachelor
+15,Lisa Morrisey[18],24,"Ottawa, Kansas",Marketing Coordinator,Week 5,11,14.0,Bachelor
+15,Ashley Spivey[21],26,"Ellerbe, North Carolina",Nanny,11,11,12.0,Bachelor
+15,Lindsay Hill[22],25,"Plano, Texas",First Grade Teacher,Week 4,13,13.0,Bachelor
+15,Kimberly Coon[24],27,"Orlando, Florida",Marketing Coordinator,Week 3,18,11.0,Bachelor
+15,Madison Garton[27],25,"Vail, Colorado",Model,17 ,17,13.0,Bachelor
+15,Keltie Busch[28],28,"Sherwood Park, Alberta",Radio City Rockette,Week 2,20,10.0,Bachelor
+15,Britnee Marks[30],25,"Holland, Pennsylvania",Paralegal,Week 1,23,13.0,Bachelor
+16,Courtney Robertson[7][8],28,"Scottsdale, Arizona",Model,Winner,1,1.0,Bachelor
+16,Lindzi Cox[9],27,"Ocala, Florida",Business Development Manager,Runner-up,2,2.0,Bachelor
+16,Nicki Sterling[7],26,"Hurst, Texas",Dental Hygienist,Week 9,3,3.0,Bachelor
+16,Kacie Boguskie[10],24,"Clarksville, Tennessee",Administrative Assistant,Week 8,4,5.0,Bachelor
+16,Emily O'Brien[11],27,"Chapel Hill, North Carolina",PhD Student,Week 7,5,2.0,Bachelor
+16,Jamie Otis[13],25,"Dryden, New York",Registered Nurse,Week 6,7,4.0,Bachelor
+16,Casey Shteamer[14],26,"Leawood, Kansas",Trading Clerk,8 (DQ),8,3.0,Bachelor
+16,Blakeley Jones[11],34,"Rutherfordton, North Carolina",VIP Cocktail Waitress,9,9,-5.0,Bachelor
+16,Jennifer Fritsch[14],28,"Cache, Oklahoma",Accountant,Week 5,11,1.0,Bachelor
+16,Elyse Myers[14],24,"Chicago, Illinois",Personal Trainer,11,11,5.0,Bachelor
+16,Monica Spannbauer[15],33,"Yuba, California",Dental Consultant,Week 4,13,-4.0,Bachelor
+16,Samantha Levey[16][17],26,"Pittsburgh, Pennsylvania",Advertising Account Manager,13,13,3.0,Bachelor
+16,Erika Uhlig[18],23,"Charlottesville, Virginia",Law Student,Week 3,18,6.0,Bachelor
+16,Brittney Schreiner[7],26,"Colorado Springs, Colorado",Medical Sales Representative,16 ,16,3.0,Bachelor
+16,Jenna Burke[20][21],27,"Loveland, Ohio",Blogger,Week 2,20,2.0,Bachelor
+16,Amber Bacon[23],23,"Port Coquitlam, British Columbia",Labor and Delivery Nurse,Week 1,23,6.0,Bachelor
+17,Catherine Giudici[14],26,"Seattle, Washington",Graphic Designer,Winner,1,0.0,Bachelor
+17,Lindsay Yenter[15],24,"Fort Leonard Wood, Missouri",Substitute Teacher,Runner-up,2,2.0,Bachelor
+17,AshLee Frazier[16],32,"Houston, Texas",Personal Organizer,Week 9,3,-6.0,Bachelor
+17,Desiree Hartsock[17],26,"Northglenn, Colorado",Bridal Stylist,Week 8,4,0.0,Bachelor
+17,Lesley Murphy[18],25,"Fort Smith, Arkansas",Political Consultant,Week 7,5,1.0,Bachelor
+17,Tierra LiCausi[19],24,"Las Vegas, Nevada",Leasing Consultant,6,6,2.0,Bachelor
+17,Daniella McBride[20],24,"Belmont, California",Commercial Casting Associate,Week 6,7,2.0,Bachelor
+17,Sarah Herron[17][22],26,"Evergreen, Colorado",Advertising Executive,9,9,0.0,Bachelor
+17,Robyn Howard[16][23],24,"Topeka, Kansas",Oil Field Account Manager,Week 5,11,2.0,Bachelor
+17,Jackie Parr[24],25,"Ormond Beach, Florida",Cosmetics Consultant,11,11,1.0,Bachelor
+17,Amanda Meyer[17],26,"Bakersfield, California",Fit Model,Week 4,13,0.0,Bachelor
+17,Leslie Hughes[17],28,"Ruskin, Florida",Poker Dealer,13,13,-2.0,Bachelor
+17,Kristy Kaminski[25],25,"Darien, Wisconsin",Model,Week 3,18,1.0,Bachelor
+17,Kacie Boguskie[27],25,"Clarksville, Tennessee",Administrative Assistant,16,16,1.0,Bachelor
+17,Brooke Burchette[28],25,"Pittsburgh, Pennsylvania",Community Organizer,Week 2,20,1.0,Bachelor
+17,Katie Levans[30],27,"Woodstock, Illinois",Yoga Instructor,19 ,19,-1.0,Bachelor
+17,Ashley Harper[31],25,"Garner, North Carolina",Fashion Model,Week 1,23,1.0,Bachelor
+18,Nikki Ferrell[6][7],26,"Kearney, Missouri",Pediatric Nurse,Winner,1,6.0,Bachelor
+18,Clare Crawley[8],32,"Sacramento, California",Hairstylist,Runner-up,2,0.0,Bachelor
+18,Andi Dorfman[9],26,"Buckhead, Georgia",Assistant District Attorney,Week 9,3,6.0,Bachelor
+18,Renee Oteri[10],32,"Martha's Vineyard, Massachusetts",Real Estate Agent,Week 8,4,0.0,Bachelor
+18,Chelsie Webster[11],24,"Lexington, Ohio",Science Educator,Week 7,5,8.0,Bachelor
+18,Sharleen Joynt[12][13],29,"Ottawa, Ontario[a]",Opera Singer,6 ,6,3.0,Bachelor
+18,"Katherine ""Kat"" Hurd",29,"Iowa City, Iowa",Medical Sales Rep,Week 6,7,3.0,Bachelor
+18,Cassandra Ferguson[14],22,"Rochester Hills, Michigan",Former NBA Dancer,8,8,10.0,Bachelor
+18,"Allison ""Alli"" Restko[13]",26,"Orland Park, Illinois",Nanny,Week 5,11,6.0,Bachelor
+18,Elise Mosca[16],27,"Forty Fort, Pennsylvania",First Grade Teacher,Week 4,13,5.0,Bachelor
+18,Christy Hansen[18],24,"Aurora, Illinois",Marketing Manager,Week 3,18,8.0,Bachelor
+18,Amy Long[19],27,"Clermont, Florida",Local News Reporter,Week 2,20,5.0,Bachelor
+18,Victoria Lima[13],24,"Porto Alegre, Brazil[b]",Legal Assistant,18,18,8.0,Bachelor
+18,Alexis Morgado[13][21],24,"Tampa, Florida",Communications Director,Week 1,23,8.0,Bachelor
+19,Whitney Bischoff[7][8],29,"Louisville, Kentucky",Fertility Nurse,Winner,1,4.0,Bachelor
+19,Becca Tilley[10][11],25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up,2,8.0,Bachelor
+19,Kaitlyn Bristowe[12],29,"Leduc, Alberta",Dance Instructor,Week 9,3,4.0,Bachelor
+19,Jade Roper[8][14],28,"Gering, Nebraska",Cosmetics Developer,Week 8,4,5.0,Bachelor
+19,Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,Week 7,5,4.0,Bachelor
+19,Britt Nilsson[8][14],27,"Wolcott Mills, Michigan",Waitress,6,6,6.0,Bachelor
+19,Megan Bell[7],24,"Brentwood, Tennessee",Make-Up Artist,Week 6,7,9.0,Bachelor
+19,Kelsey Poe[8][17],28,"Hudsonville, Michigan",Guidance Counselor,8,8,5.0,Bachelor
+19,Ashley Iaconetti[8][19],26,"Great Falls, Virginia",Journalist,9,9,7.0,Bachelor
+19,Mackenzie Deonigi[7],21,"Maple Valley, Washington",Dental Assistant,Week 5,11,12.0,Bachelor
+19,Ashley Salter[21],24,"Vinings, Georgia",Hair Stylist,Week 4,13,9.0,Bachelor
+19,Jillian Anderson[23][24],25,"Howland, Ohio",News Producer,15,15,8.0,Bachelor
+19,Amber James[7][25],29,"Kankakee, Illinois",Bartender,Week 3,18,4.0,Bachelor
+19,Alissa Giambrone[19],24,"Hamilton, New Jersey",Flight Attendant,Week 2,20,9.0,Bachelor
+19,Kimberly Sherbach[31],28,"Wantagh, New York",Yoga Instructor,[29][32],29,5.0,Bachelor
+19,Tandra Steiner[7],30,"Sandy, Utah",Executive Assistant,[29],29,3.0,Bachelor
+19,Amanda Goerlitz[28],24,"Lake in the Hills, Illinois",Ballet Teacher,Week 1,23,9.0,Bachelor
+20,Lauren Bushnell[9],25,"West Linn, Oregon",Flight Attendant,Winner,1,1.0,Bachelor
+20,"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Runner-up,2,2.0,Bachelor
+20,Caila Quinn[12],24,"Hudson, Ohio",Software Sales Representative,Week 9,3,2.0,Bachelor
+20,Amanda Stanton[11][14],25,"Laguna Beach, California",Esthetician,Week 8,4,1.0,Bachelor
+20,Becca Tilley[16],26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7,5,0.0,Bachelor
+20,Emily Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,6,6,3.0,Bachelor
+20,Lauren Himle[18],25,"Dexter, Michigan",Kindergarten Teacher,Week 6,7,1.0,Bachelor
+20,Olivia Caridi[5][11],23,"Austin, Texas",Former News Anchor,8,8,3.0,Bachelor
+20,Leah Block[20],25,"Greenwood Village, Colorado",Event Planner,9,9,1.0,Bachelor
+20,Jennifer Saviano[21],25,"Davie, Florida",Small Business Owner,Week 5,11,1.0,Bachelor
+20,Jubilee Sharpe[11],24,"Fort Lauderdale, Florida",War Veteran,11,11,2.0,Bachelor
+20,Amber James[23],30,"Kankakee, Illinois",Bartender,Week 4,13,-4.0,Bachelor
+20,Haley Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,14,14,3.0,Bachelor
+20,Jami Letain[26],23,"St. Albert, Alberta",Bartender,Week 3,18,3.0,Bachelor
+20,Lace Morris[20],25,"Denver, Colorado",Real Estate Agent,17 ,17,1.0,Bachelor
+20,"Amanda ""Mandi"" Kremer[29]",28,"Portland, Oregon",Dentist,Week 2,20,-2.0,Bachelor
+20,"Lauren ""LB"" Barr[33]",23,"Stillwater, Oklahoma",Fashion Buyer,21 ,21,3.0,Bachelor
+20,Breanne Rice[34],30,"Seattle, Washington",Nutritional Therapist,Week 1,23,-4.0,Bachelor
+21,Vanessa Grimaldi[9],29,"Montreal, Quebec",Special Education Teacher,Winner,1,7.0,Bachelor
+21,Raven Gates[11][12],25,"Hoxie, Arkansas",Fashion Boutique Owner,Runner-Up,2,11.0,Bachelor
+21,Rachel Lindsay[11],31,"Dallas, Texas",Attorney,Week 9,3,5.0,Bachelor
+21,Corinne Olympios[11][14],24,"Miami, Florida",Business Owner,Week 8,4,12.0,Bachelor
+21,Kristina Schulman[16],24,"Lexington, Kentucky",Dental Hygienist,Week 7,5,12.0,Bachelor
+21,Danielle Maltby[18],31,"Colgate, Wisconsin",Neonatal Nurse,6,6,5.0,Bachelor
+21,Danielle Lombard[12][19],27,"Danville, California",Small Business Owner,Week 6,7,9.0,Bachelor
+21,Whitney Fransway[21],25,"Chanhassen, Minnesota",Pilates Instructor,8,8,11.0,Bachelor
+21,Jasmine Goode[22][23],29,"Maplewood, New Jersey",Pro Basketball Dancer,9,9,7.0,Bachelor
+21,Alexis Waters[11][24],23,"Secaucus, New Jersey",Aspiring Dolphin Trainer,Week 5,11,13.0,Bachelor
+21,Taylor Nolan[26],23,"Seattle, Washington",Mental Health Counselor,13,13,13.0,Bachelor
+21,Astrid Loch[28],26,"Tampa, Florida",Plastic Surgery Office Manager,Week 4,13,10.0,Bachelor
+21,Brittany Farrar[19],26,"Santa Monica, California",Travel Nurse,Week 3,18,10.0,Bachelor
+21,Dominique Alexis[19],25,"Los Angeles, California",Restaurant Server,18,18,11.0,Bachelor
+21,Elizabeth Whitelaw[33],24,"New Trier, Illinois",Marketing Manager,Week 2,20,12.0,Bachelor
+21,"Elizabeth ""Liz"" Sandoz[11]",29,"Scottsbluff, Nebraska",Doula,22,22,7.0,Bachelor
+21,Angela Amezcua[37],26,"Cumberland, Maryland",Model,Week 1,23,10.0,Bachelor
+22,Becca Kufrin[9],27,"Prior Lake, Minnesota",Publicist,Winner,1,9.0,Bachelor
+22,Lauren Burnham[11],25,"Virginia Beach, Virginia",Technology Salesperson,Runner-up,2,11.0,Bachelor
+22,Kendall Long[12],26,"Santa Clarita, California",Creative Director,Week 9,3,10.0,Bachelor
+22,Tia Booth[14],26,"Weiner, Arkansas",Physical Therapist,Week 8,4,10.0,Bachelor
+22,Bekah Martinez[12][16],22,"Clovis, California",Nanny,Week 7,5,14.0,Bachelor
+22,Seinne Fleming[12][18],27,"Long Beach, California",Commercial Real Estate Agent,6,6,9.0,Bachelor
+22,Jacqueline Trumbull[19],26,"Morgantown, West Virginia",Research Coordinator,7 ,7,10.0,Bachelor
+22,Chelsea Roy[12][20][21],29,"South Portland, Maine",Real Estate Executive Assistant,Week 6,7,7.0,Bachelor
+22,Krystal Nielson[25],29,"Missoula, Montana",Fitness Coach,10,10,7.0,Bachelor
+22,Ashley Luebke[6],25,"West Palm Beach, Florida",Real Estate Agent,Week 5,11,11.0,Bachelor
+22,Brittany Taylor[29],30,"Belton, South Carolina",Tech Recruiter,Week 4,13,6.0,Bachelor
+22,Bibiana Julian[12][6],30,"Miami, Florida",Executive Assistant,Week 3,18,6.0,Bachelor
+22,Annaliese Puccini[33],32,"San Mateo, California",Event Designer,17,17,4.0,Bachelor
+22,Lauren Schleyer[11],31,"Dallas, Texas",Social Media Manager,18,18,5.0,Bachelor
+22,"Jennifer ""Jenny"" Delaney[34]",25,"Northbrook, Illinois",Graphic Designer,Week 2,20,11.0,Bachelor
+22,"Alison ""Ali"" Harrington[11]",27,"Lawton, Oklahoma",Personal Stylist,Week 1,23,9.0,Bachelor
+23,Cassie Randolph[14],23,"Huntington Beach, California",Speech Pathologist,Winner,1,3.0,Bachelor
+23,Hannah Godwin[16],23,"Birmingham, Alabama",Content Creator,Week 9,3,3.0,Bachelor
+23,Tayshia Adams[18],28,"Santa Ana, California",Phlebotomist,3,3,-2.0,Bachelor
+23,Caelynn Miller-Keyes[20],23,"Fredericksburg, Virginia",Miss North Carolina USA2018,Week 8,4,3.0,Bachelor
+23,Kirpa Sudick[22],26,"Whittier, California",Dental Hygienist,Week 7,5,0.0,Bachelor
+23,Heather Martin[24],23,"Carlsbad, California",Assistant Program Manager,6 ,6,3.0,Bachelor
+23,Hannah Brown[16],24,"Northport, Alabama",Miss Alabama USA2018,7,7,2.0,Bachelor
+23,Katie Morton[25],26,"Oviedo, Florida",Medical Sales Representative,Week 6,7,0.0,Bachelor
+23,Demi Burnett[27],23,"Red Oak, Texas",Interior Designer,9,9,3.0,Bachelor
+23,Sydney Lotuaco[22],27,"Virginia Beach, Virginia",NBA Dancer,10 ,10,-1.0,Bachelor
+23,Nicole Lopez-Alvar[28],25,"Miami, Florida",Social Media Coordinator,Week 5,11,1.0,Bachelor
+23,Elyse Dehlbom[29],31,"Soldotna, Alaska",Makeup Artist,13 ,13,-5.0,Bachelor
+23,Courtney Curtis[22],23,"McDonough, Georgia",Caterer,Week 4,13,3.0,Bachelor
+23,"Brianna ""Bri"" Barnes[33]",24,"Chino Hills, California",Model,Week 3,18,2.0,Bachelor
+23,Caitlin Clemmens[35],25,"Toronto, Ontario",Realtor,19,19,1.0,Bachelor
+23,Alex Blumberg[22],29,"Vancouver, British Columbia",Dog Rescuer,Week 2,20,-3.0,Bachelor
+23,Alex Dillon[38],23,"Dennis, Massachusetts",Sloth,Week 1,23,3.0,Bachelor
+24,Hannah Ann Sluss[22],23,"Powell, Tennessee",Model,Winner,1,5.0,Bachelor
+24,Madison Prewett[14][23],23,"Auburn, Alabama",Foster Parent Recruiter,Runner-up,2,5.0,Bachelor
+24,Victoria Fuller[25],26,"Virginia Beach, Virginia",Medical Sales Rep,Week 9,3,2.0,Bachelor
+24,Kelsey Weier[12],28,"Urbandale, Iowa",Professional Clothier,Week 8,4,0.0,Bachelor
+24,Kelley Flanagan[27],27,"North Barrington, Illinois",Attorney,Week 7,5,1.0,Bachelor
+24,Natasha Parker[29],31,"Manhattan, New York",Event Planner,6,6,-3.0,Bachelor
+24,Mykenna Dorn[30],22,"Langley, British Columbia",Fashion Blogger,Week 6,7,6.0,Bachelor
+24,Tammy Ly[33],24,"Syracuse, New York",House Flipper,9,9,4.0,Bachelor
+24,Victoria Paul[11][34],27,"Alexandria, Louisiana",Nurse,10,10,1.0,Bachelor
+24,Lexi Buchanan[35],26,"Jacksonville, Florida",Marketing Coordinator,Week 5,11,2.0,Bachelor
+24,Deandra Kanu[37],23,"Bar Harbor, Maine",Home Care Coordinator,Week 4,13,5.0,Bachelor
+24,Alayah Benavidez[10],24,"Helotes, Texas",Orthodontist Assistant,16,16,4.0,Bachelor
+24,Alayah Benavidez,(Returned to competition),Week 3,,[18],18,,Bachelor
+24,Alexa Caves[27],27,"Springfield, Illinois",Esthetician,17–19,17,1.0,Bachelor
+24,Courtney Perry[39],26,"Venice, Florida",Cosmetologist,Week 2,20,2.0,Bachelor
+24,Avonlea Elkins[10],27,"Fort Worth, Texas",Cattle Rancher,Week 1,23,1.0,Bachelor
+25,Rachael Kirkconnell[17],24,"Cumming, Georgia",Graphic Designer,Week 1,23,4.0,Bachelor
+25,Michelle Young[19][20],27,"Woodbury, Minnesota",Teacher,Week 3,18,1.0,Bachelor
+25,"Brianna ""Bri"" Springs[21][22]",24,"San Antonio, Texas",Communications Manager,Week 1,23,4.0,Bachelor
+25,Serena Pitt[24][25],23,"Markham, Ontario",Publicist,Week 8,4,5.0,Bachelor
+25,Pieper James[27],23,"Happy Valley, Oregon",Graduate Student,Week 7,5,5.0,Bachelor
+25,Jessenia Cruz[22],27,"El Paso, Texas",Social Media Marketer,6,6,1.0,Bachelor
+25,Kit Keenan[6],21,"Manhattan, New York",Fashion Entrepreneur,7 ,7,7.0,Bachelor
+25,Abigail Heringer[8][27],25,"Salem, Oregon",Client Financial Manager,8,8,3.0,Bachelor
+25,Chelsea Vaughn[28],28,"Marietta, Georgia",Runway Model,Week 6,7,0.0,Bachelor
+25,Katie Thurston[24][30],29,"Lynnwood, Washington",Bank Marketing Manager,11,11,-1.0,Bachelor
+25,Brittany Galvin[20][31],23,"Hinsdale, Illinois",Model,Week 3,18,5.0,Bachelor
+25,"Mearg ""Magi"" Tareke[32]",32,"Adwa, Ethiopia[b]",Pharmacist,Week 1,23,-4.0,Bachelor
+25,Ryan Claytor[20],26,"Mechanicsville, Virginia",Dancer/Choreographer,Week 3,18,2.0,Bachelor
+25,"Meredith ""MJ"" Snyder[33]",23,"Hudson, Ohio",Hairstylist,Week 1,23,5.0,Bachelor
+25,Catalina Morales[34],29,"Caguas, Puerto Rico[c]",FormerMiss Universe Puerto Rico,Week 3,18,-1.0,Bachelor
+25,Lauren Maddox[36],29,"Miami, Florida",Corporate Attorney,Week 1,23,-1.0,Bachelor
+25,Anna Redman[39][40],24,"Owatonna, Minnesota",Copywriter,20,20,4.0,Bachelor
+25,Kaili Anderson[40],26,"San Diego, California",Hostess,Week 3,18,2.0,Bachelor
+25,"Kimberly ""Kim"" Li[20]",28,"Cypress, California",ICU Nurse,Week 3,18,0.0,Bachelor
+25,Sarah Trott[42],24,"Scripps Ranch, California",Broadcast Journalist,Week 1,23,4.0,Bachelor
+25,Alana Milne[22],26,"San Antonio, Texas",Photographer,Week 2,20,2.0,Bachelor
+25,Alicia Holloway[46],24,"Morgantown, West Virginia",Professional Ballerina,Week 1,23,4.0,Bachelor
+26,Susie Evans[27][28],28,"Poquoson, Virginia",Wedding Videographer,Winner,1,0.0,Bachelor
+26,"Gabriela ""Gabby"" Windey[16][30]",30,"O'Fallon, Illinois",ICU Nurse,Runner-Up,2,-2.0,Bachelor
+26,Susie Evans,(Returned to competition),Week 9,[a],[32],32,,Bachelor
+26,Serene Russell[33],26,"Oklahoma City, Oklahoma",Elementary School Teacher,Week 8,4,2.0,Bachelor
+26,Teddi Wright[31][35],24,"Redlands, California",Surgical Unit Nurse,Week 7,5,4.0,Bachelor
+26,Sarah Hamrick[14][36],23,"Spartanburg, South Carolina",Wealth Management Advisor,6,6,5.0,Bachelor
+26,Genevieve Parisi[37][38],26,"Rehoboth, Massachusetts",Bartender,7,7,2.0,Bachelor
+26,Eliza Isichei[39],25,"Tampa, Florida[b]",Marketing Manager,Week 6,7,3.0,Bachelor
+26,Hunter Haag[42],28,"Lake Wylie, South Carolina",Human Resources Specialist,Week 5,11,0.0,Bachelor
+26,Shanae Ankney[44],29,"Sycamore, Ohio",Recruiter,12,12,-1.0,Bachelor
+26,"Jillian ""Jill"" Chin[37]",26,"Scituate, Rhode Island",Architectural Historian,Week 4,13,2.0,Bachelor
+26,Elizabeth Corrigan[47],32,"Highlands Ranch, Colorado",Real Estate Advisor,Week 3,18,-4.0,Bachelor
+26,Ency Abedin[48],28,"Burbank, California",Sales Manager,Week 2,20,0.0,Bachelor
+26,Cassidy Timbrooks[49],26,"Cave Creek, Arizona",Executive Recruiter,22,22,2.0,Bachelor
+26,Daria Rose[50][51],24,"Baldwin, New York",Law Student,Week 1,23,4.0,Bachelor
+26,Samantha Jeffries[51],26,"Dayton, Ohio",Occupational Therapist,29 ,29,2.0,Bachelor
+26,Claire Heilig[27][51],28,"Virginia Beach, Virginia",Spray Tanner,30,30,0.0,Bachelor
+27,"Kaitlyn ""Kaity"" Biggar[21]",27,"Kingston, Ontario",Travel Nurse,Winner,1,-1.0,Bachelor
+27,"Gabriella ""Gabi"" Elnicki[23]",25,"Pittsford, Vermont",Senior Account Executive,Runner-Up,2,1.0,Bachelor
+27,Ariel Frenkel[10][24],28,"Manhattan, New York",Marketing Executive,Week 9,3,-2.0,Bachelor
+27,Charity Lawson[26],26,"Columbus, Georgia",Child and Family Therapist,Week 8,4,0.0,Bachelor
+27,Katherine Izzo[28],26,"Tampa, Florida",Registered Nurse,Week 7,5,0.0,Bachelor
+27,Brooklyn Willie[6][30],25,"Mineola, Texas",Rodeo Racer,6,6,1.0,Bachelor
+27,Greer Blitzer[31],24,"Bellaire, Texas",Medical Sales Representative,7,7,2.0,Bachelor
+27,"Alyssa ""Aly"" Jacobs[32][33]",26,"Smyrna, Georgia",Healthcare Strategist,Week 6,7,0.0,Bachelor
+27,"Jessica ""Jess"" Girod[33]",23,"Winter Springs, Florida",E-Commerce Coordinator,9,9,3.0,Bachelor
+27,Kylee Russell[35][36],25,"Charlotte, North Carolina",Postpartum Nurse,Week 5,11,1.0,Bachelor
+27,Davia Bunch[8],25,"Roebuck, South Carolina",Marketing Manager,Week 4,13,1.0,Bachelor
+27,Anastasia Keramidas[39],30,"Baltimore, Maryland",Content Marketing Manager,14,14,-4.0,Bachelor
+27,Christina Mandrell[6][7],26,"Hendersonville, Tennessee",Content Creator,Week 3,18,0.0,Bachelor
+27,Brianna Thorbourne[6][41],24,"Jersey City, New Jersey",Entrepreneur,16 ,16,2.0,Bachelor
+27,Bailey Brown[6][42],27,"Brentwood, Tennessee",Executive Recruiter,17,17,-1.0,Bachelor
+27,"Catherine ""Cat"" Wong[6][8]",26,"Bushwick, New York",Professional Dancer,Week 2,20,0.0,Bachelor
+27,Becca Serrano[43],25,"Burbank, California",Nursing Student,Week 1,23,1.0,Bachelor
+27,Madison Johnson[52],26,"Fargo, North Dakota",Business Owner,30,30,0.0,Bachelor
+28,Kelsey Anderson[18],25,"Leesville, Louisiana",Junior Project Manager,Winner,1,3.0,Bachelor
+28,Daisy Kent[20][21],25,"Becker, Minnesota",Account Executive,Week 10,2,3.0,Bachelor
+28,Rachel Nance[22],26,"Honolulu, Hawaii",ICU Nurse,Week 9,3,2.0,Bachelor
+28,Maria Georgas[8][24],29,"Kleinburg, Ontario",Executive Assistant,Week 8,4,-1.0,Bachelor
+28,"Jennifer ""Jenn"" Tran[26][27]",25,"Hillsdale, New Jersey",PAStudent,Week 7,5,3.0,Bachelor
+28,Katelyn DeBacker[30],26,"Santa Fe, New Mexico",Radiochemist,Week 6,7,2.0,Bachelor
+28,Lexi Young[31],30,"Pataskala, Ohio",Digital Strategist,9 ,9,-2.0,Bachelor
+28,"Jessica ""Jess"" Edwards[32]",24,"Erwin, Tennessee",Executive Assistant,10,10,4.0,Bachelor
+28,Autumn Waggoner[33],26,"De Soto, Missouri",Account Executive,Week 5,11,2.0,Bachelor
+28,Allison Hollinger[a][36],26,"Dover, Delaware",Realtor,Week 4,13,2.0,Bachelor
+28,Sydney Gordon[38],28,"Newport, Rhode Island",Vintage Store Owner,15,15,0.0,Bachelor
+28,Chrissa Perez[24][40],26,"Abbotsford, British Columbia",Marketing Director,Week 3,18,2.0,Bachelor
+28,Erika Cardenas[42],25,"North Bergen, New Jersey",Leasing Agent,Week 2,20,3.0,Bachelor
+28,Lauren Hollinger[a][36],28,"Dover, Delaware",Registered Nurse,22 ,22,0.0,Bachelor
+28,Chandler Dewgard[44],24,"Brooklyn, New York",Graphic Designer,Week 1,23,4.0,Bachelor
+1,Ryan Sutter,28,"Vail, Colorado",Firefighter,Winner,1,3.0,Bachelorette
+1,Charlie Maher,28,"Hermosa Beach, California",Financial Analyst,Runner-up,2,3.0,Bachelorette
+1,Russell Woods,31,"San Rafael, California",Writer,Week 5,11,0.0,Bachelorette
+1,Greg Todtman,28,"Manhattan, New York",Importer,Week 4,13,3.0,Bachelorette
+1,Bob Guiney,31,"Ferndale, Michigan",Mortgage Broker,Week 3,18,0.0,Bachelorette
+1,Jamie Blyth,27,"Chicago, Illinois",Professional Basketball Player,Week 3,18,4.0,Bachelorette
+1,Mike Cousino,24,"Cincinnati, Ohio",Sales and Consulting,Week 3,18,7.0,Bachelorette
+1,Rob Fayard,29,"Dallas, Texas",Computer Programmer,Week 3,18,2.0,Bachelorette
+1,Brian Ching,28,"Dallas, Texas",Mortgage Broker,Week 2,20,3.0,Bachelorette
+1,Brian S.,28,"Dallas, Texas",Sales Engineer,Week 2,20,3.0,Bachelorette
+1,Brook Pemberton,29,"Dallas, Texas",Rodeo Cowboy,Week 2,20,2.0,Bachelorette
+1,Jack French,27,"Pepper Pike, Ohio",Firefighter,Week 2,20,4.0,Bachelorette
+1,Jeff Popovich,25,"San Diego, California",Professional Football Player,Week 2,20,6.0,Bachelorette
+1,Josh Krone,31,"Boca Raton, Florida",Radio Advertising Executive,Week 2,20,0.0,Bachelorette
+1,Brian Hrouda,30,"Cleveland, Ohio",National Sales Manager,Week 2 (Quit),20,1.0,Bachelorette
+1,Billy Peralta,28,"Hermosa Beach, California",Firefighter,Week 1,23,3.0,Bachelorette
+1,Brian K.,31,"San Francisco, California",Breast Implant Sales,Week 1,23,0.0,Bachelorette
+1,Chris Tunnessen,35,"Sugarloaf, Pennsylvania",V.P. of Auto Parts Company,Week 1,23,-4.0,Bachelorette
+1,Duane Ruzynski,28,"Chisago City, Minnesota",Flight Instructor,Week 1,23,3.0,Bachelorette
+1,Eric,33,"St. Louis, Missouri",Commercial Pilot,Week 1,23,-2.0,Bachelorette
+1,Gregg Holland,34,"Freehold, New Jersey",Marble Company Owner,Week 1,23,-3.0,Bachelorette
+1,Matt Swogger,42,"Marina Del Rey, California",Gym Owner,Week 1,23,-11.0,Bachelorette
+1,Paul Kanoho,26,"Honolulu, Hawaii",Telecommunications,Week 1,23,5.0,Bachelorette
+1,Peter Dizdar,25,"Great Neck, New York",Construction Business Owner,Week 1,23,6.0,Bachelorette
+1,Wayne Johnson,37,"Sacramento, California",Commercial Pilot,Week 1,23,-6.0,Bachelorette
+2,Ian McKee,29,"New York, New York",Equity Research Salesman,Winner,1,-1.0,Bachelorette
+2,Matthew Hickl,28,"Friendswood, Texas",Pharmaceutical Sales Rep,Episode 8,8,0.0,Bachelorette
+2,Chad Schlee,31,"Buffalo, New York",Pharmaceutical Sales Rep,Episode 6,6,-3.0,Bachelorette
+2,Lanny Lawrence,26,"Aubrey, Texas",Stallion and Breeding Manager,Episode 5,5,2.0,Bachelorette
+2,Brad Andrzejewski,29,"Grand Rapids, Michigan",Pharmaceutical Sales Rep,Episode 4,4,-1.0,Bachelorette
+2,Ryan Morelli,30,"Santa Barbara, California",Financial Advisor,Episode 4,4,-2.0,Bachelorette
+2,Sean Denham,31,"Wall, New Jersey",Certified Public Accountant,Episode 4,4,-3.0,Bachelorette
+2,Rick Enrico,29,"San Diego, California",Business Manager,Episode 3,3,-1.0,Bachelorette
+2,Ryan Reeve,29,"Wynola, California",Sales/Marketing,Episode 3,3,-1.0,Bachelorette
+2,Todd Hedrick,36,"San Francisco, California",Options Trader,Episode 3,3,-8.0,Bachelorette
+2,Damon Bowers,28,"Cardiff, California",Arena Football Player,Episode 2,2,0.0,Bachelorette
+2,Eliot Wheeler,25,"Mountain View, California",Options Trader,Episode 2,2,3.0,Bachelorette
+2,Harold Hersh,29,"Rock Island, Illinois",Professional Hockey Player,Episode 2,2,-1.0,Bachelorette
+2,Marcus Pierce,26,"Los Angeles, California",Personal Trainer,Episode 2,2,2.0,Bachelorette
+2,Robert Townsend,32,"El Segundo, California",Alliance Development,Episode 2,2,-4.0,Bachelorette
+2,Aaron Holliday,32,"Sacramento, California",Title and Escrow Sales,Episode 1,1,-4.0,Bachelorette
+2,Andy Chang,33,"Dallas, Texas",Dentist,Episode 1,1,-5.0,Bachelorette
+2,Anselm Clinard,32,"Venice, California",Art Designer,Episode 1,1,-4.0,Bachelorette
+2,Brian Holden,31,"Quincy, Massachusetts",Attorney,Episode 1,1,-3.0,Bachelorette
+2,Chris Ritter,31,"Boston, Massachusetts",Accountant,Episode 1,1,-3.0,Bachelorette
+2,Cory Higgins,24,"Long Beach Island,New Jersey",Small Business Owner,Episode 1,1,4.0,Bachelorette
+2,Jeff O'Quinn,30,"Macon, Georgia",Pharmaceutical Sales Rep,Episode 1,1,-2.0,Bachelorette
+2,Justin Sherrod,25,"Orlando, Florida",Professional Baseball Player,Episode 1,1,3.0,Bachelorette
+2,Keith Kormanik,31,"Baltimore, Maryland",Financial Analyst,Episode 1,1,-3.0,Bachelorette
+2,Trever Kalan,35,"North Wales, Pennsylvania",Restaurateur,Episode 1,1,-7.0,Bachelorette
+3,Jerry Ferris[7],29,"Los Angeles, California",Art Gallery Director,Winner,1,,Bachelorette
+3,John Paul Merritt,25,"Oklahoma City, Oklahoma",Entrepreneur,Episode 8,8,,Bachelorette
+3,Ryan Sheaffer,28,"Manhattan Beach, California",Teacher,Episode 6,6,,Bachelorette
+3,Wendell Jisa,32,"Chicago, Illinois",Entrepreneur,Episode 5,5,,Bachelorette
+3,Fabrice Le Parc,25,"New York City, New York","Entrepreneur, Investor",Episode 4,4,,Bachelorette
+3,Ben Sands,26,"Aspen, Colorado",Ski Instructor,Episode 4,4,,Bachelorette
+3,Josh Cox,28,"Murrieta, California",Professional Marathoner,Episode 3,3,,Bachelorette
+3,Keith Bruno,28,"Encinitas, California",Welder,Episode 3,3,,Bachelorette
+3,A.W. Webb,27,"Newport Beach, California",Mortgage Consultant,Episode 2,2,,Bachelorette
+3,Jason Illian,29,"Fort Worth, Texas",Motivational Speaker,Episode 2,2,,Bachelorette
+3,Mark DeMascole,30,"Carlsbad, California",Commercial Finance,Episode 2,2,,Bachelorette
+3,Matt Mills,32,"Manor Heights, New York",Firefighter,Episode 2,2,,Bachelorette
+3,Michael Foster,31,"Monroe, Michigan",Teacher,Episode 2,2,,Bachelorette
+3,Ryan Smith,34,"Germantown, Pennsylvania",Lawyer,Episode 2,2,,Bachelorette
+3,"Stuart ""Stu"" Lopoten",27,"Willowyck, Pennsylvania",Lawyer,Episode 2,2,,Bachelorette
+3,Andrew Maloney,37,"New York, New York",Bartender,Episode 1,1,,Bachelorette
+3,Andy LeRoy,29,"Steamboat Springs, Colorado",Ski Coach,Episode 1,1,,Bachelorette
+3,Chris Campbell,27,"Campton, Kentucky",Hairdresser,Episode 1,1,,Bachelorette
+3,Chris Miller,33,"Cleveland, Ohio",Sports Agent,Episode 1,1,,Bachelorette
+3,Collin Evans,27,"Austin, Texas",Sports Agent,Episode 1,1,,Bachelorette
+3,David Vargas,30,"Chicago, Illinois",Marketing Consultant,Episode 1,1,,Bachelorette
+3,Eric Hagerman,35,"New York, New York",Magazine Editor,Episode 1,1,,Bachelorette
+3,Eric Topacio,37,"San Diego, California",Firefighter,Episode 1,1,,Bachelorette
+3,Kevin,26,"New York, New York",Consultant,Episode 1,1,,Bachelorette
+3,Matt Lipson,33,"Manhattan Beach, California",Lawyer,Episode 1,1,,Bachelorette
+4,Jesse Csincsak,26,"Breckenridge, Colorado",Professional Snowboarder,Winner,1,,Bachelorette
+4,Jason Mesnick,31,"Kirkland, Washington",Account Executive,Runner-up,2,,Bachelorette
+4,Jeremy Anderson,30,"Dallas, Texas",Real Estate Attorney,Week 7,5,,Bachelorette
+4,Graham Bunn,29,"Raleigh, North Carolina",Professional Basketball Player,Week 6,7,,Bachelorette
+4,Sean Ramey,33,"Louisville, Kentucky",Martial Artist,Week 5,11,,Bachelorette
+4,Brian Westendorf,31,"Balch Springs, Texas",High School Football Coach,Week 4,13,,Bachelorette
+4,"Frederick ""Fred"" Greif",30,"Skokie, Illinois",Lawyer,8,8,,Bachelorette
+4,Robert Fair,28,"Burlingame, California",Chef,9,9,,Bachelorette
+4,Paul Brosseau,23,"Bonnyville, Alberta",Sales Manager,Week 3,18,,Bachelorette
+4,Richard Mathy,27,"Sauquoit, New York",Science Teacher,12,12,,Bachelorette
+4,Chris Bradshaw,29,"Fort Worth, Texas",Medical Sales Rep,Week 2,20,,Bachelorette
+4,Brian Winchester,29,"New Castle, Indiana",Computer Network Consultant,Week 1,23,,Bachelorette
+5,Ed Swiderski[3][4],29,"Monroe, Michigan",Technology Consultant,Winner,1,-4.0,Bachelorette
+5,Kiptyn Locke[5],31,"Encinitas, California",Business Developer,Runner-up,2,-6.0,Bachelorette
+5,Reid Rosenthal[6],30,"Upper Dublin, Pennsylvania",Realtor,Week 9,3,-5.0,Bachelorette
+5,Wes Hayden[6][7],32,"Huntsville, Texas",Musician,Week 8,4,-7.0,Bachelorette
+5,Jesse Kovacs[8],27,"Carmel Valley, California",Wine Maker,Week 7,5,-2.0,Bachelorette
+5,Jake Pavelka[9],31,"Denton, Texas",Commercial Pilot,Week 6,7,-6.0,Bachelorette
+5,Robby Descant[7],25,"Spring, Texas",Bartender,9,9,0.0,Bachelorette
+5,Mark Huebner[10],26,"Woodstock, Illinois",Pizza Entrepreneur,Week 5,11,-1.0,Bachelorette
+5,David Good[11],27,"West Alexandria, Ohio",Trucking Contractor,Week 4,13,-2.0,Bachelorette
+5,Mike Steinberg,28,"New York, New York",Baseball Camp Owner,13,13,-3.0,Bachelorette
+5,Brad Seberhagen,27,"Park Ridge, Illinois",Financial Advisor,Week 3,18,-2.0,Bachelorette
+5,"Alexander ""Sasha"" Petrovic[7][13]",27,"Houston, Texas",Oil & Gas Consultant,16,16,-2.0,Bachelorette
+5,Brian Duke,32,"Birmingham, Alabama",IT Consultant,Week 2,20,-7.0,Bachelorette
+5,Adam Duvendeck,27,"Santa Barbara, California",Olympic Cyclist,Week 1,23,-2.0,Bachelorette
+6,Roberto Martinez[3][4],26,"Tampa, Florida",Insurance Agent,Winner,1,,Bachelorette
+6,Chris Lambton[3][5],33,"Dennis, Massachusetts",Landscaper,Runner-up,2,,Bachelorette
+6,Frank Neuschaefer[3][6],31,"Bartlett, Illinois",Retail Manager,Week 9,3,,Bachelorette
+6,Kirk DeWindt[3][7],27,"Green Bay, Wisconsin",Sales Consultant,Week 8,4,,Bachelorette
+6,"Tyrone ""Ty"" Brown[3][8]",31,"Booneville, Mississippi",Medical Sales,Week 7,5,,Bachelorette
+6,Craig Robinson[9],27,"Langhorne, Pennsylvania",Lawyer,Week 6,7,,Bachelorette
+6,Justin Rego[3][10],26,"Toronto,Ontario",Entertainment Wrestler,7 (DQ),7,,Bachelorette
+6,Chris Nordhorn[3][11][12][13],29,"Winter Park, Florida",Entrepreneur,Week 5,11,,Bachelorette
+6,Kasey Kahl[3],27,"Clovis, California",Advertising Account Executive,9,9,,Bachelorette
+6,Jesse Beck[3],24,"Peculiar, Missouri",General Contractor,Week 4,13,,Bachelorette
+6,John Crivello[3],32,"Mukilteo, Washington",Hotel Business Development,Week 3,18,,Bachelorette
+6,Hunter Wagner[3],28,"Fair Oaks Ranch, Texas",Internet Account Executive,14,14,,Bachelorette
+6,Chris Hasek-Watt[3],27,"Campbell River, British Columbia",Real Estate Developer,Week 2,20,,Bachelorette
+6,Derek Columbia,28,"Warren, Michigan",Sales Manager,Week 1,23,,Bachelorette
+7,J.P. Rosenbaum[5][6],34,"Roslyn, New York",Construction Manager,Winner,1,,Bachelorette
+7,Ben Flajnik[7][8],28,"Sonoma, California",Wine Maker,Runner-up,2,,Bachelorette
+7,Constantine Tzortzis[7][9],30,"Cumming, Georgia",Restaurant Owner,Week 9,3,,Bachelorette
+7,Ames Brown[7][10],31,"Chadds Ford, Pennsylvania",Portfolio Manager,Week 8,4,,Bachelorette
+7,Lucas Daniels[7][11],30,"Odessa, Texas",Oilfield Equipment Distributor,Week 7,5,,Bachelorette
+7,Ryan Park[7][12],31,"San Luis Obispo, California",Solar Energy Executive,6,6,,Bachelorette
+7,Blake Julian[7][13],27,"Steamboat Springs, Colorado",Dentist,Week 6,7,,Bachelorette
+7,"Ryan ""Mickey"" McLean[7][14]",31,"Rochester, New York",Chef,8 ,8,,Bachelorette
+7,Nick Peterson[7][15],26,"Odessa, Florida",Personal Trainer,Week 5,11,,Bachelorette
+7,William Holman[7],30,"Fostoria, Ohio",Cellular Phone Salesman,10,10,,Bachelorette
+7,Ben Castoriano[7][16],28,"Lake Charles, Louisiana",Lawyer,11,11,,Bachelorette
+7,Adam West Lee[7],30,"Walhalla, South Carolina",Lawyer,Week 4,13,,Bachelorette
+7,Chris Drish[7],25,"Moline, Illinois",Sports Marketing Coordinator,Week 3,18,,Bachelorette
+7,Bentley Williams[7][12],28,"Alpine, Utah",Businessman,15 ,15,,Bachelorette
+7,Matt Colombo[19],28,"Bridgewater, Massachusetts",Office Supply Salesman,Week 2,20,,Bachelorette
+7,Anthony Santucci[7],28,"Saddle River, New Jersey",Butcher,Week 1,23,,Bachelorette
+7,Tim McCormack[21],35,"Massapequa, New York",Liquor Distributor,25,25,,Bachelorette
+8,"Jeffrey ""Jef"" Holm[13]",27,"St. George, Utah",Entrepreneur,Winner,1,,Bachelorette
+8,Arie Luyendyk Jr.[14],30,"Scottsdale, Arizona",Race Car Driver,Runner-up,2,,Bachelorette
+8,Sean Lowe[15][16],28,"Irving, Texas",Insurance Agent,Week 9,3,,Bachelorette
+8,Chris Bukowski[17],25,"Bartlett, Illinois",Corporate Sales Director,Week 8,4,,Bachelorette
+8,John Wolfner[18],30,"Creve Coeur, Missouri",Data Destruction Specialist,Week 7,5,,Bachelorette
+8,Doug Clerget[19],33,"Tacoma, Washington",Real Estate Agent,6,6,,Bachelorette
+8,Ryan Bowers[15],31,"Evans, Georgia",Pro Sports Trainer,Week 6,7,,Bachelorette
+8,Travis Pope[18],30,"Madison, Mississippi",Advertising Sales Representative,8,8,,Bachelorette
+8,Alejandro Velez[20],25,"Medellín, Colombia",Mushroom Farmer,Week 5,11,,Bachelorette
+8,Kalon McMahon[18],27,"Houston, Texas",Luxury Brand Consultant,10,10,,Bachelorette
+8,Charlie Grogan[21],32,"Worcester, Massachusetts",Recruiter,Week 4,13,,Bachelorette
+8,Nathan Bakke[22],25,"Casa Grande, Arizona",Accountant,13,13,,Bachelorette
+8,Stevie Alberino,26,"Monroe Township, New Jersey",Party M.C.,Week 3,18,,Bachelorette
+8,Alessandro Goulart[23],30,"Saint Paul, Minnesota",Grain Merchant,15,15,,Bachelorette
+8,Tony Pieper[23],31,"Beaverton, Oregon",Lumber Trader,16,16,,Bachelorette
+8,Aaron Martell[24][25],36,"North Sydney, Nova Scotia",Biology Teacher,Week 2,20,,Bachelorette
+8,Joe Gendreau[24][26],27,"Orlando, Florida",Field Energy Adviser,19,19,,Bachelorette
+8,Brent Strandy[24],41,"Midland, Texas",Technology Salesman,Week 1,23,,Bachelorette
+9,Chris Siegfried[7],27,"McMinnville, Oregon",Mortgage Broker,Winner,1,7.0,Bachelorette
+9,Drew Kenney[9],27,"Scottsdale, Arizona",Digital Marketing Analyst,Runner-Up,2,7.0,Bachelorette
+9,Brooks Forester,28,"Blackfoot, Idaho",Sales Rep,Week 9,3,6.0,Bachelorette
+9,Zak Waddell[11],31,"Arlington, Texas",Drilling Fluid Engineer,Week 8,4,3.0,Bachelorette
+9,Michael Garofola[13],33,"Lindenhurst, New York",Federal Prosecutor,Week 7,5,1.0,Bachelorette
+9,James Case[9][15],27,"Marietta, Georgia",Advertising Executive,Week 6,7,7.0,Bachelorette
+9,Mikey Tenerelli[9][15],30,"Glen Ellyn, Illinois",Plumbing Contractor,Week 5,11,4.0,Bachelorette
+9,Ben Scott[20],28,"Lubbock, Texas",Entrepreneur,10,10,6.0,Bachelorette
+9,Bryden Vukasin[21],26,"Havre, Montana",Iraq War Veteran,11 ,11,8.0,Bachelorette
+9,Zack Kalter[22],28,"Phillips Ranch, California",Book Publisher,Week 4,13,6.0,Bachelorette
+9,Brad McKinzie[22],27,"Denver, Colorado",Accountant/DJ,13,13,7.0,Bachelorette
+9,Brandon Andreen[24],26,"Blaine, Minnesota",Painting Contractor,Week 3,18,8.0,Bachelorette
+9,Brian Jarosinski[27][28],29,"Olney, Maryland",Financial Advisor,16 (DQ),16,5.0,Bachelorette
+9,Nick Mucci[29],27,"Rochester, New York",Investment Adviser,Week 2,20,7.0,Bachelorette
+9,Diogo Custodio,29,"Penha,Brazil[b]",Ski Resort Manager,Week 1,23,5.0,Bachelorette
+9,Jonathan Vollinger[34],26,"Hickory, North Carolina",Lawyer,25,25,8.0,Bachelorette
+10,Josh Murray[6][8],29,"Tampa, Florida",Former Professional Baseball Player,Winner,1,1.0,Bachelorette
+10,Nick Viall[10][11],33,"Waukesha, Wisconsin",Software Sales Executive,Runner-up,2,-3.0,Bachelorette
+10,Chris Soules[12],32,"Arlington, Iowa",Farmer,Week 9,3,-2.0,Bachelorette
+10,Marcus Grodd[14],25,"Medicine Hat, Alberta",Sports Medicine Manager,Week 8,4,5.0,Bachelorette
+10,Brian Osborne[16],27,"Camp Hill, Pennsylvania",Basketball Coach,Week 7,5,3.0,Bachelorette
+10,J.J. O'Brien[10][19],30,"Hanover, Massachusetts",Pantsapreneur,Week 6,7,0.0,Bachelorette
+10,Cody Sattler[10][21],28,"Oakley, Kansas",Personal Trainer,8,8,2.0,Bachelorette
+10,Andrew Poole[22],30,"Portola Valley, California",Social Media Marketer,Week 5,11,0.0,Bachelorette
+10,Tasos Hernandez[26],30,"Denver, Colorado",Wedding Event Coordinator,Week 4,13,0.0,Bachelorette
+10,Eric Hill[6][10][28][29],31[a],"Citrus Heights, California",Explorer,13,13,,Bachelorette
+10,Bradley Wisk[30],32,"Grosse Pointe, Michigan",Opera Singer,Week 3,18,-2.0,Bachelorette
+10,Ron Worrell[34],28,"Nahariya, Israel[b]",Beverage Sales Manager,16 ,16,2.0,Bachelorette
+10,Carl King[35],30,"Hollywood, California",Firefighter,Week 2,20,0.0,Bachelorette
+10,Emil Schaffroth[38],33,"Portland, Oregon",Helicopter Pilot,Week 1,23,-3.0,Bachelorette
+11,Shawn Booth[8],28,"Windsor Locks, Connecticut",Personal Trainer,Winner,1,6.0,Bachelorette
+11,Nick Viall[10],34,"Waukesha, Wisconsin",Software Sales Executive,Runner-up,2,0.0,Bachelorette
+11,Ben Higgins[11][12],26,"Warsaw, Indiana",Software Salesman,Week 8,4,8.0,Bachelorette
+11,Jared Haibon[14],26,"Warwick, Rhode Island",Restaurant Manager,Week 7,5,8.0,Bachelorette
+11,Joe Bailey[16][17],28,"Glasgow, Kentucky",Insurance Agent,5,5,6.0,Bachelorette
+11,Chris Strandburg[16],28,"Granite Bay, California",Dentist,6,6,6.0,Bachelorette
+11,Ben Zorn[16][18],26,"Falls Church, Virginia",Fitness Coach,Week 6,7,8.0,Bachelorette
+11,"John ""JJ"" Lane III[12]",32,"Dacono, Colorado",Former Investment Banker,9,9,2.0,Bachelorette
+11,Joshua Albers[21],31,"Kuna, Idaho",Industrial Welder,Week 5,11,3.0,Bachelorette
+11,Ian Thomson[16],28,"Ramsey, New Jersey",Executive Recruiter,12 ,12,6.0,Bachelorette
+11,Corey Stansell[24],30,"Midtown Manhattan, New York",Investment Banker,Week 4,13,4.0,Bachelorette
+11,Clint Arlis[16][23][28],27,"Batavia, Illinois",Architectural Engineer,Week 3,18,7.0,Bachelorette
+11,Tony Harris[30][31],35,"St. Louis, Missouri",Healer,17 ,17,-1.0,Bachelorette
+11,Cory Shivar[31][32],35,"Seven Springs, North Carolina",Residential Developer,Week 2,20,-1.0,Bachelorette
+11,Kupah James[34],32,"Boston, Massachusetts",Entrepreneur,20,20,2.0,Bachelorette
+11,Bradley Cox[35],25,"Duluth, Georgia",International Auto Shipper,Week 1,23,9.0,Bachelorette
+11,Brady Toops[39],33,"Wauseon, Ohio",Singer/Songwriter,25 ,25,1.0,Bachelorette
+11,Ryan McDill[20][40],28,"Kansas City, Missouri",Junkyard Specialist,26 (DQ)[a],26,6.0,Bachelorette
+12,Jordan Rodgers[13],27,"Chico, California",Former Pro Quarterback,Winner,1,0.0,Bachelorette
+12,Robby Hayes[15],27,"St. Augustine, Florida",Former Competitive Swimmer,Runner-up,2,0.0,Bachelorette
+12,Chase McNary[16],27,"Castle Rock, Colorado",Medical Sales Rep,Week 9,3,0.0,Bachelorette
+12,Luke Pell[13],31,"Burnet, Texas",WarVeteran,Week 8,4,-4.0,Bachelorette
+12,James Taylor[18],29,"Katy, Texas",Singer-Songwriter,Week 7,5,-2.0,Bachelorette
+12,Alex Woytkiw[20],25,"Oceanside, California",U.S. Marine,6,6,2.0,Bachelorette
+12,Derek Peth[21],29,"Waverly, Iowa",Commercial Banker,Week 6,7,-2.0,Bachelorette
+12,Wells Adams[23][24][25],31,"Monterey, California",Radio DJ,8,8,-4.0,Bachelorette
+12,Evan Bass[13][23],33,"Hartford, Connecticut",Erectile Dysfunction Specialist,Week 5,11,-6.0,Bachelorette
+12,Daniel Maguire[28],31,"Lions Bay, British Columbia",Male Model,Week 4,13,-4.0,Bachelorette
+12,Chad Johnson[13],28,"Jenks, Oklahoma",Real Estate Agent,14,14,-1.0,Bachelorette
+12,Ali Zahiri[30],27,"Santa Monica, California",Bartender,Week 3,18,0.0,Bachelorette
+12,Brandon Howell[30],28,"Marysville, Washington",Hipster,Week 2,20,-1.0,Bachelorette
+12,"Colin ""Coley"" Knust[36]",27,"Lincoln Park, Illinois",Real Estate Consultant,Week 1,23,0.0,Bachelorette
+13,Bryan Abasolo[6][7],37,"Miami, Florida",Chiropractor,Winner,1,-5.0,Bachelorette
+13,Peter Kraus[9],31,"Cottage Grove, Wisconsin",Business Owner,Runner-Up,2,1.0,Bachelorette
+13,Eric Bigger[10],29,"Baltimore, Maryland",Personal Trainer,Week 9,3,3.0,Bachelorette
+13,Dean Unglert[7][11],26,"Basalt, Colorado",Startup Recruiter,Week 8,4,6.0,Bachelorette
+13,Adam Gottschalk[13],27,"Dallas, Texas",Real Estate Agent,Week 7,5,5.0,Bachelorette
+13,Matt Munson[15],32,"Meriden, Connecticut",Construction Sales Rep,6,6,0.0,Bachelorette
+13,Alex Bordyukov[16],28,"Grosse Pointe, Michigan",Information Systems Supervisor,Week 6,7,4.0,Bachelorette
+13,Will Gaskins[6],28,"White Plains, New York",Sales Manager,8,8,4.0,Bachelorette
+13,Kenny Layne[7][18][19],35,"Orlando, Florida",Professional Wrestler,9,9,-3.0,Bachelorette
+13,Anthony Battle[9],26,"Dolton, Illinois",Education Software Manager,Week 5,11,6.0,Bachelorette
+13,Lee Garrett[18],30,"Jacksonville, Florida",Singer/Songwriter,12,12,2.0,Bachelorette
+13,"Ignacio ""Iggy"" Rodriguez[9]",30,"Pasadena, California",Consulting Firm CEO,Week 4,13,2.0,Bachelorette
+13,Jack Stone[13],32,"Dallas, Texas",Attorney,15,15,0.0,Bachelorette
+13,Brady Ervin[6],29,"Eden Prairie, Minnesota",Male Model,Week 3,18,3.0,Bachelorette
+13,Fred Johnson[7][13],27,"Dallas, Texas",Executive Assistant,19,19,5.0,Bachelorette
+13,Blake Elarbee[26],31,"Marina del Rey, California",Aspiring Drummer,Week 2,20,1.0,Bachelorette
+13,DeMario Jackson[7][29],30,"Century City, California",Executive Recruiter,23,23,2.0,Bachelorette
+13,Blake Killpack[31],29,"Oahu, Hawaii",U.S. Marine Veteran,Week 1,23,3.0,Bachelorette
+14,Garrett Yrigoyen[8],29,"Manteca, California",Medical Sales Representative,Winner,1,2.0,Bachelorette
+14,Blake Horstmann[10],28,"Bailey, Colorado",Sales Rep,Runner-up,2,3.0,Bachelorette
+14,Jason Tartick[11],29,"Buffalo, New York",Senior Corporate Banker,Week 9,3,2.0,Bachelorette
+14,Colton Underwood[4],26,"Washington, Illinois",Former Pro Football Player,Week 8,4,5.0,Bachelorette
+14,"William ""Wills"" Reid[14]",29,"Los Angeles, California",Graphic Designer,Week 7,5,2.0,Bachelorette
+14,"Leandro ""Leo"" Dottavio[14]",31,"Valley Glen, California",Actor,6,6,0.0,Bachelorette
+14,Connor Obrochta[16],25,"St. Petersburg, Florida",Fitness Coach,Week 6,7,6.0,Bachelorette
+14,Chris Randone[14],30,"Orlando, Florida",Sales Trainer,9,9,1.0,Bachelorette
+14,John Graham[19],28,"San Francisco, California",Software Engineer,Week 5,11,3.0,Bachelorette
+14,Jordan Kimball[21],26,"Crystal River, Florida",Male Model,11,11,5.0,Bachelorette
+14,David Ravitz[22],25,"Cherry Hill, New Jersey",Venture Capitalist,12,12,6.0,Bachelorette
+14,Christon Staples[14],31,"Saginaw, Michigan",FormerHarlem Globetrotter,Week 4,13,0.0,Bachelorette
+14,Jean Blanc[24],31,"Boston, Massachusetts",Colognoisseur,15,15,0.0,Bachelorette
+14,Mike Renner[4][18],27,"Cincinnati, Ohio",Sports Analyst,Week 3,18,4.0,Bachelorette
+14,Clay Harbor[4][26],30,"Dwight, Illinois",Pro Football Player,18 ,18,1.0,Bachelorette
+14,Alex Templeman[28],31,"Alpharetta, Georgia",Construction Manager,Week 2,20,0.0,Bachelorette
+14,Chase Vergason[32],27,"Sanford, Florida",Advertising Vice President,Week 1,23,4.0,Bachelorette
+14,Jake Enyeart[35],29,"Minneapolis, Minnesota",Marketing Consultant,28,28,2.0,Bachelorette
+15,Jed Wyatt[14],25,"Sevierville, Tennessee",Singer/Songwriter,Winner,1,13.0,Bachelorette
+15,Tyler Cameron[16],26,"Jupiter, Florida",General Contractor,Runner-Up,2,12.0,Bachelorette
+15,Peter Weber[17],27,"Westlake Village, California",Pilot,Week 9,3,11.0,Bachelorette
+15,Luke Parker[19][20],24,"Gainesville, Georgia",Import/Export Manager,4,4,14.0,Bachelorette
+15,Garrett Powell[22],27,"Homewood, Alabama",Golf Pro,Week 7,5,11.0,Bachelorette
+15,Mike Johnson[24],31,"San Antonio, Texas",Portfolio Manager,6,6,7.0,Bachelorette
+15,Connor Saeli[24],24,"Birmingham, Michigan",Investment Analyst,7,7,14.0,Bachelorette
+15,Dustin Kendrick[25],30,"Goose Island, Illinois",Real Estate Broker,Week 6,7,8.0,Bachelorette
+15,Devin Harris[28],27,"Sherman Oaks, California",Talent Manager,Week 5,11,11.0,Bachelorette
+15,John Paul Jones[32],24,"Lanham, Maryland",Financial Analyst,Week 4,13,14.0,Bachelorette
+15,Luke Stone[34],29,"Needham, Massachusetts",Political Consultant,15 ,15,9.0,Bachelorette
+15,"Cameron ""Cam"" Ayala[35]",30,"Austin, Texas",Software Sales,Week 3,18,8.0,Bachelorette
+15,Tyler Gwozdz†[39],28,"Boca Raton, Florida",Psychology Graduate Student,19 (DQ)[a],19,10.0,Bachelorette
+15,Connor Jenkins[4],28,"Newport Beach, California",Sales Manager,Week 2,20,10.0,Bachelorette
+15,Brian Bowles[43],30,"Louisville, Kentucky",Math Teacher,Week 1,23,8.0,Bachelorette
+15,Scott Andersen[31],28,"West Dundee, Illinois",Software Sales Executive,30,30,10.0,Bachelorette
+16,Dale Moss[11],31,"Brandon, South Dakota",Former Pro Football Wide Receiver,Week 1,23,-2.0,Bachelorette
+16,Zac Clark[29],36,"Haddonfield, New Jersey",Addiction Specialist,Week 1,23,-7.0,Bachelorette
+16,Ben Smith[31],30,"Noblesville, Indiana",Army Ranger,Week 1,23,-1.0,Bachelorette
+16,Ivan Hall[32],28,"Plano, Texas",Aeronautical Engineer,Week 9,3,1.0,Bachelorette
+16,Brendan Morais[33],30,"Milford, Massachusetts",Commercial Roofer,4 ,4,-1.0,Bachelorette
+16,Ben Smith,(Returned to competition),Week 8,[a],[35],35,,Bachelorette
+16,Bennett Jordan[36],36,"Atlanta, Georgia",Wealth Management Consultant,Week 1,23,-7.0,Bachelorette
+16,Noah Erb[20],25,"Tulsa, Oklahoma",Registered Travel Nurse,Week 3,18,4.0,Bachelorette
+16,Riley Christian[38],30,"Long Island City, New York",Attorney,Week 1,23,-1.0,Bachelorette
+16,Blake Moynes[39],29,"Hamilton, Ontario",Wildlife Manager,8,8,0.0,Bachelorette
+16,Demar Jackson[40],26,"Scottsdale, Arizona",Spin Cycling Instructor,Week 6,7,3.0,Bachelorette
+16,Spencer Robertson[20],30,"La Jolla, California",Water Treatment Engineer,Week 3,18,-1.0,Bachelorette
+16,"Uzoma ""Eazy"" Nwachukwu[13]",29,"Allen, Texas",Sports Marketing Agent,Week 1,23,0.0,Bachelorette
+16,Chasen Nick[44],32,"Walnut Creek, California",IT Account Executive,Week 5,11,-3.0,Bachelorette
+16,Jay Smith[42],29,"Langhorne, Pennsylvania",Fitness Director,Week 4,13,0.0,Bachelorette
+16,Montel Hill[20],30,"Hingham, Massachusetts",Gym Owner,Week 3,18,-1.0,Bachelorette
+16,Jason Foster[12],31,"Rutland, Vermont",Former Pro Footballer Lineman,Week 1,23,-2.0,Bachelorette
+16,Zach Jackson[51],37,"St. George, Utah",Cleaning Service Owner,Week 3,18,-8.0,Bachelorette
+16,Blake Monar[40],31,"Rockport, Indiana",Male Grooming Specialist,Week 2,20,-2.0,Bachelorette
+16,Yosef Aborady[54],30,"Daphne, Alabama",Medical Device Salesman,25,25,-1.0,Bachelorette
+16,Brandon Goss[55],28,"Cleveland, Ohio",Real Estate Agent,26,26,1.0,Bachelorette
+16,AJ Yalawan[42],28,"Irvine, California",Software Salesman,Week 1,23,1.0,Bachelorette
+17,Blake Moynes[12][17],30,"Hamilton, Ontario",Wildlife Manager,Winner,1,-4.0,Bachelorette
+17,Justin Glaze[19],26,"Ellicott City, Maryland",Investment Sales Consultant,Runner-Up,2,0.0,Bachelorette
+17,Greg Grippo[20][21],27,"Edison, New Jersey",Marketing Sales Representative,Week 7,5,-1.0,Bachelorette
+17,Michael Allio[23][24],36,"Akron, Ohio",Business Owner,4 ,4,-10.0,Bachelorette
+17,Andrew Spencer[6][26],26,"Lake Villa, Illinois[b]",Pro Football Player,Week 6,7,0.0,Bachelorette
+17,Mike Planeta[28],31,"Surprise, Arizona",Gym Owner,6,6,-5.0,Bachelorette
+17,Brendan Scanzano[17],26,"Toronto, Ontario",Firefighter Trainee,7,7,0.0,Bachelorette
+17,Aaron Clancy[29],26,"Walnut, California",Insurance Agent,Week 5,11,0.0,Bachelorette
+17,Connor Brennan[21][32],29,"Columbia, Illinois",Math Teacher,12,12,-3.0,Bachelorette
+17,Andrew Milcovich[33],31,"Walnut Creek, California",Deputy District Attorney,Week 4,13,-5.0,Bachelorette
+17,Christian Smith[34],26,"Newburyport, Massachusetts",Real Estate Agent,Week 3,18,0.0,Bachelorette
+17,Garrett Schwartz[37],29,"Salinas, California",Software Marketing Manager,Week 2,20,-3.0,Bachelorette
+17,Cody Menk[20][21],27,"Montclair, New Jersey",Zipper Sales Manager,24,24,-1.0,Bachelorette
+17,Austin Tinsley[33],25,"Mission Viejo, California",Real Estate Investor,Week 1,23,1.0,Bachelorette
+18,Nayte Olukoya[19],27,"Winnipeg, Manitoba",Sales Executive,Winner,1,5.0,Bachelorette
+18,Brandon Jones[21],26,"Portland, Oregon",Traveling Nurse Recruiter,Runner-Up,2,6.0,Bachelorette
+18,Joe Coleman[7][22],28,"Minneapolis, Minnesota",Real Estate Developer,Week 8,4,4.0,Bachelorette
+18,Rodney Mathews[24],29,"Rancho Cucamonga, California",Sales Representative,Week 7,5,3.0,Bachelorette
+18,"Olumide ""Olu"" Onajide[26]",27,"Woodland Park, New Jersey",IT Analyst,Week 6,7,5.0,Bachelorette
+18,Martin Gelbspan[29],29,"Córdoba, Argentina[a]",Personal Trainer,7,7,3.0,Bachelorette
+18,Clayton Echard[6],28,"Eureka, Missouri",Medical Sales Representative,8,8,4.0,Bachelorette
+18,Casey Woods[30],36,"Parkland, Florida",Advertising Creative Director,Week 5,11,-4.0,Bachelorette
+18,Chris Sutton[32][33],28,"New Orleans, Louisiana",Commodities Broker,11,11,4.0,Bachelorette
+18,Chris Gallant[34],28,"Halifax, Nova Scotia",Motivational Speaker,Week 4,13,4.0,Bachelorette
+18,"Lowell ""LT"" Murray IV[8]",38,"Bellevue, Washington",Yoga Guru,Week 3,18,-6.0,Bachelorette
+18,Jamie Skaar[39],32,"Tacoma, Washington",Biotech CEO,19,19,0.0,Bachelorette
+18,Alec Thompson[40],29,"Forest, Virginia",Engineer,Week 2,20,3.0,Bachelorette
+18,Brandon Kieffer[32],29,"Sulphur, Louisiana",Brand Manager,Week 1,23,3.0,Bachelorette
+18,Ryan Fox[45],30,"Sanger, California",Environmental Consultant,30,30,2.0,Bachelorette
+20,Dotun Olubeko[14],30,"Fresno, California",Integrative Medicine Specialist,Winner,1,-4.0,Bachelorette
+20,Joey Graziadei[16][17],27,"Royersford, Pennsylvania",Tennis Pro,Runner-Up,2,-1.0,Bachelorette
+20,Aaron Bryant[18][19],29,"Katy, Texas",Software Salesman,Week 7,5,-3.0,Bachelorette
+20,Xavier Bonner[20][21],27,"Euclid, Ohio",Biomedical Scientist,4,4,-1.0,Bachelorette
+20,Aaron Bryant,(Returned to competition),Week 6,[a],[23],23,,Bachelorette
+20,Tanner Courtad[24],30,"Pittsburgh, Pennsylvania",Mortgage Lender,Week 5,11,-4.0,Bachelorette
+20,Sean McLaughlin[6][26],25,"Troy, New York",Software Sales Rep,6,6,1.0,Bachelorette
+20,Caleb Balgaard[4][27],24,"Fenton, Michigan",Pro Wrestler,Week 4,13,2.0,Bachelorette
+20,Brayden Bowers[31],24,"Murrieta, California",Travel Nurse,10 ,10,2.0,Bachelorette
+20,Aaron Schwartzman[32],33,"Fremont, California",Firefighter,Week 3,18,-7.0,Bachelorette
+20,Warwick Reider[35],27,"Oxford, Ohio",Construction Manager,14,14,-1.0,Bachelorette
+20,Caleb Arthur[36],29,"Kentwood, Michigan",Resident Physician,Week 2,20,-3.0,Bachelorette
+20,Chris Spell[5],27,"White Plains, New York",World Record Jumper,Week 1,23,-1.0,Bachelorette
+21,Devin Strader[19],28,"Rosenberg, Texas",Freight Company Owner,Winner,1,8.0,Bachelorette
+21,Marcus Shoberg[21][22],31,"Cloquet, Minnesota",Army Ranger Veteran,Runner-Up,2,5.0,Bachelorette
+21,Jonathon Johnson[23],27,"Kansas City, Missouri",Creative Director,Week 8,4,9.0,Bachelorette
+21,Jeremy Simon[4][25],29,"Fairfield, Connecticut",Real Estate Investor,Week 7,5,7.0,Bachelorette
+21,Grant Ellis[2][27],30,"Newark, New Jersey",Day Trader,Week 6,7,6.0,Bachelorette
+21,Sam McKinney[28][29],27,"Myrtle Beach, South Carolina",Contractor,7,7,9.0,Bachelorette
+21,Dylan Buckor[30],24,"Elk Grove, California",Medical Student,Week 5,11,12.0,Bachelorette
+21,Austin Ott[31],28,"Vista, California",Sales Executive,9 ,9,8.0,Bachelorette
+21,John Mitchell[32][33],26,"Delray Beach, Florida",Medical Student,Week 4,13,10.0,Bachelorette
+21,"Samaun ""Sam"" Nejad[35]",25,"Carlsbad, California",Entrepreneur,12,12,11.0,Bachelorette
+21,Hakeem Moulton[36],29,"Schaumburg, Illinois",Medical Device Salesman,Week 3,18,7.0,Bachelorette
+21,Aaron Erb[7][38],29,"Tulsa, Oklahoma",Aerospace Engineer,15 ,15,7.0,Bachelorette
+21,Brian Autz[39],33,"Northport, New York",Aesthetics Consultant,Week 2,20,3.0,Bachelorette
+21,Brendan Barnum[37],30,"Vancouver, British Columbia",Real Estate Broker,Week 1,23,6.0,Bachelorette
